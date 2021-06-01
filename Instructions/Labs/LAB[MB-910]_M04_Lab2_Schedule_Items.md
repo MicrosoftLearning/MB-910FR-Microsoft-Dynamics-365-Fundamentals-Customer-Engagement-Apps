@@ -25,7 +25,7 @@ Module 4 : Découvrir les principes fondamentaux de Dynamics 365 Field Servi
 
 	- **Compte de service :** A. Datum Corporation (exemple)
 
-	- **Type d’ordre de travail **: Service
+	- **Type d’ordre de travail**: Service
 
 	- **Tarifs :** Tarifs par défaut
 
@@ -67,5 +67,5 @@ Module 4 : Découvrir les principes fondamentaux de Dynamics 365 Field Servi
 
 21. Cliquez sur la zone Rechercher des ressources dans le tableau de planification (à droite au-dessus de la colonne du nom de la ressource), entrez Ryan et localisez l’ordre de travail planifié pour Ryan à une heure ultérieure du jour. 
 
-22. Cliquez avec le bouton droit sur l’ordre de travail et dans le menu qui apparaît, sélectionnez **Substituer la ressource** et sélectionnez **Rechercher une substitution** **.**
+22. Cliquez avec le bouton droit sur l’ordre de travail et dans le menu qui apparaît, sélectionnez **Substituer la ressource** et sélectionnez **Rechercher une substitution**.
 

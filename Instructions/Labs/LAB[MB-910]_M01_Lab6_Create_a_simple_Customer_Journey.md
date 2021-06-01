@@ -43,13 +43,13 @@ Durant cet exercice, vous constaterez que les parcours des clients sont un compo
 
 11. Sélectionnez l’onglet Général qui se trouve vers le haut de l’enregistrement Parcours du client. Entrez les informations suivantes dans l’onglet **Général** :
 
-	- **Nom **: Parcours du client Fargo
+	- **Nom**: Parcours du client Fargo
 
-	- **Date et heure de début **: Entrez la date d’aujourd’hui
+	- **Date et heure de début**: Entrez la date d’aujourd’hui
 
-	- **Date et heure de fin **: Un mois à compter d’aujourd’hui
+	- **Date et heure de fin**: Un mois à compter d’aujourd’hui
 
-	- **Fuseau horaire **: Sélectionnez votre fuseau horaire local 
+	- **Fuseau horaire**: Sélectionnez votre fuseau horaire local 
 
 12. Dans la barre de commandes, sélectionnez **Enregistrer** pour enregistrer le travail que vous avez réalisé jusqu’à présent.
 

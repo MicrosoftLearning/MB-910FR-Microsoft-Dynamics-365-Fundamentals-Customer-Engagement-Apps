@@ -69,7 +69,7 @@ En tant qu’agent du support technique, vous êtes responsable de la résolutio
 
 1. Ouvrez l’application **Concentrateur du service client Dynamics 365** si elle n’est pas déjà ouverte. 
 
-2. Dans le volet de navigation de gauche, sélectionnez ** Articles de la Base de connaissances **. 
+2. Dans le volet de navigation de gauche, sélectionnez **Articles de la Base de connaissances**. 
 
 3. Pour voir rapidement quels articles sont dans différentes phases, sélectionnez la flèche déroulante à côté de **Mes articles actifs**. 
 
@@ -226,7 +226,7 @@ Maintenant que vous êtes familiarisé avec quelques vues et tableaux de bord, n
 
  
 
-10. Dans le volet de navigation de gauche, sélectionnez ** Incidents**. 
+10. Dans le volet de navigation de gauche, sélectionnez **Incidents**. 
 
 11. Dans la **Barre de commandes**, sélectionnez le bouton **Nouveau** pour créer un nouvel enregistrement d’incident.
 
@@ -258,7 +258,7 @@ Maintenant que vous êtes familiarisé avec quelques vues et tableaux de bord, n
 
 17. Cliquez sur le bouton **Enregistrer et fermer**. 
 
-18. Dans **Processus téléphone-incident**, sélectionnez la phase **Identifier **.
+18. Dans **Processus téléphone-incident**, sélectionnez la phase **Identifier**.
 
 19. Cliquez sur le bouton **Phase suivante** pour passer à la phase **Rechercher**. 
 
@@ -292,11 +292,11 @@ Maintenant que vous êtes familiarisé avec quelques vues et tableaux de bord, n
 
 Maintenant que nous avons identifié une solution pour le problème du client, nous sommes prêts à résoudre l’incident. La première étape de clôture d’un incident consiste à fermer toutes les activités ouvertes qui y étaient associées. 
 
-1. Dans l’enregistrement d’incident **Chronologie**, survolez la tâche **Mener des recherches sur le problème de Piper** que vous avez créée précédemment**.** Sélectionnez Marquer comme terminé (**icône de coche**) pour terminer l’activité. 
+1. Dans l’enregistrement d’incident **Chronologie**, survolez la tâche **Mener des recherches sur le problème de Piper** que vous avez créée précédemment. Sélectionnez Marquer comme terminé (**icône de coche**) pour terminer l’activité. 
 
 2. Dans l’écran **Fermer la tâche**, vérifiez que l’état est défini sur Terminé et sélectionnez le bouton **Fermer**. Le statut de la tâche devrait indiquer **Fermé**. 
 
-3. Survolez **Appel téléphonique - Retourner l’appel de Piper** que vous avez créé précédemment**.** Sélectionnez Marquer comme terminé (**icône de coche**) pour terminer l’activité. 
+3. Survolez **Appel téléphonique - Retourner l’appel de Piper** que vous avez créé précédemment. Sélectionnez Marquer comme terminé (**icône de coche**) pour terminer l’activité. 
 
 4. Dans l’écran **Fermer un appel téléphonique**, vérifiez que l’**État** est défini sur **Terminé** et que le **Statut** est **Effectué**. Sélectionnez le bouton **Fermer**. Vérifiez que l’activité s’affiche comme fermée dans la Chronologie. 
 

@@ -168,7 +168,7 @@ Maintenant que nous avons réussi à qualifier le prospect comme opportunité, i
 
 ### Tâche 1 : Gérer une opportunité de vente et créer un devis 
 
-1. Dans le volet de navigation de gauche, sélectionnez ** Opportunités**. 
+1. Dans le volet de navigation de gauche, sélectionnez **Opportunités**. 
 
 2. Sélectionnez la flèche déroulante à côté de **Mes opportunités ouvertes** et dans le menu qui s’affiche, sélectionnez **Opportunités ouvertes**.
 
@@ -258,25 +258,25 @@ Maintenant que vous avez un devis associé, vous allez préparer le devis à pr�
 
 3. Maintenant que le devis a été créé, mettons à jour l’enregistrement de l’opportunité de manière à refléter les nouvelles données. Dans l’enregistrement du devis, sélectionnez l’opportunité **Intéressé par un équipement de sécurité** - **« Votre nom »** dans le champ **Opportunité** sous la section **Informations de vente**. L’enregistrement du devis devrait s’ouvrir sur votre écran. 
 
-3. Dans l’enregistrement du devis, sélectionnez la phase **Proposer**. 
+4. Dans l’enregistrement du devis, sélectionnez la phase **Proposer**. 
 
-4. Marquez les étapes **Développer la proposition**, **Effectuer une révision interne** et **Présenter la proposition** comme étant **terminées**, et cliquez sur le bouton **Phase suivante** pour passer à la phase **Fermer**. 
+5. Marquez les étapes **Développer la proposition**, **Effectuer une révision interne** et **Présenter la proposition** comme étant **terminées**, et cliquez sur le bouton **Phase suivante** pour passer à la phase **Fermer**. 
 
-5. Dans la phase **Fermer**, marquez les étapes **Effectuer la proposition finale**, **Présenter la proposition finale**, **Envoyer une carte de remerciement** et **Compte rendu du fichier** comme étant **terminées**. 
+6. Dans la phase **Fermer**, marquez les étapes **Effectuer la proposition finale**, **Présenter la proposition finale**, **Envoyer une carte de remerciement** et **Compte rendu du fichier** comme étant **terminées**. 
 
-6. Définissez **Confirmer la date de décision** sur **la date d’aujourd’hui**. 
+7. Définissez **Confirmer la date de décision** sur **la date d’aujourd’hui**. 
 
-7. Cliquez sur le bouton **Terminer**. 
+8. Cliquez sur le bouton **Terminer**. 
 
-8. Cliquez sur le symbole **X** dans la fenêtre de la phase de clôture pour fermer la fenêtre. 
+9. Cliquez sur le symbole **X** dans la fenêtre de la phase de clôture pour fermer la fenêtre. 
 
-9. Sélectionnez l’onglet **Devis**. 
+10. Sélectionnez l’onglet **Devis**. 
 
-10. Ouvrez le devis **Intéressé par un équipement de sécurité - Vos initiales**. 
+11. Ouvrez le devis **Intéressé par un équipement de sécurité - Vos initiales**. 
 
-11. Dans la **Barre de commandes**, sélectionnez le bouton **Créer une commande**.
+12. Dans la **Barre de commandes**, sélectionnez le bouton **Créer une commande**.
 
-12. Dans la fenêtre Créer une commande, renseignez les champs suivants :
+13. Dans la fenêtre Créer une commande, renseignez les champs suivants :
 
 	- **Raison du statut :** Conclu
 
@@ -288,7 +288,7 @@ Maintenant que vous avez un devis associé, vous allez préparer le devis à pr�
 
 	- **Revenu réel :** 12 500 $
 
-13. Sélectionnez le bouton **OK** 
+14. Sélectionnez le bouton **OK** 
 
 Le système crée une nouvelle commande client associée à l’élément. Il ferme en outre à la fois l’enregistrement du devis et l’enregistrement d’opportunité associée. Une fois que tout est terminé, la commande s’ouvre sur votre écran. Laissez la commande ouverte. 
 
@@ -312,4 +312,4 @@ Maintenant que vous avez généré une commande client, nous allons fermer la co
 
 4. Dans la **Barre de commandes** de la commande, cliquez sur le bouton **Créer la facture**. 
 
-5. Une fois que l’enregistrement de facture est ouvert, sélectionnez **Facture réglée*.
+5. Une fois que l’enregistrement de facture est ouvert, sélectionnez **Facture réglée**.

@@ -1,7 +1,7 @@
 # INF99X : Exemple de cours
 
 - **[Télécharger le dernier manuel du participant et le contenu de tous les fichiers](../../releases/latest)**
-- **Êtes-vous un MCT ?** -  Jetez un œil à notre [Guide de l’utilisateur GitHub pour MCT](https://microsoftlearning.github.io/MCT-User-Guide/)
+- **Êtes-vous un MCT ?** -  Jetez un œil à notre [Guide de l’utilisateur GitHub pour MCT](https://microsoftlearning.github.io/MCT-User-Guide-FR/)
 - **Vous devez créer manuellement les instructions des ateliers ?** - Les instructions sont disponibles dans le référentiel [MicrosoftLearning/Docker-Build](https://github.com/MicrosoftLearning/Docker-Build)
 
 ## Que faisons-nous ?

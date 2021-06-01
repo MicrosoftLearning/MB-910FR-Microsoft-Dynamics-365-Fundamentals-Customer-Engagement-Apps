@@ -16,7 +16,7 @@ Dynamics 365 Marketing permet à votre organisation de prendre le contrôle de 
 
 	- Démarrer avec le tableau de bord Pipeline des ventes marketing
 
-	- Utiliser une campagne multicanal pour cibler des prospects
+	- Utiliser une campagne multicanal pour cibler des prospects
 
 	- Gérer des prospects et les qualifier en ventes
 

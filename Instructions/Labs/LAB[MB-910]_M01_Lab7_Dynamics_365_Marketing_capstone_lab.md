@@ -113,7 +113,7 @@ Une campagne marketing récente ciblant des propriétaires de maison à Portland
 
 25. Après vous être assuré qu’il n’y a pas d’erreur, dans la **Barre de commandes**, sélectionnez **Mise en service**. 
 
-26. Cliquez sur le flèche déroulante à côté du bouton **Enregistrer ** dans la barre de commandes et sélectionnez **Enregistrer et fermer.e**. 
+26. Cliquez sur le flèche déroulante à côté du bouton **Enregistrer** dans la barre de commandes et sélectionnez **Enregistrer et fermer.e**. 
 
 Vous avez correctement créé un courrier électronique de marketing que vous pouvez exploiter dans d’autres domaines de l’application Marketing. 
 

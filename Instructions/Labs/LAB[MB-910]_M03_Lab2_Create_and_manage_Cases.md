@@ -17,7 +17,7 @@ Module 3 : Découvrir les principes fondamentaux de Dynamics 365 Customer Se
 
 1. Ouvrez l’application **Concentrateur du service client Dynamics 365** si elle n’est pas déjà ouverte. 
 
-2. Dans le volet de navigation de gauche, sélectionnez ** Incidents**. 
+2. Dans le volet de navigation de gauche, sélectionnez **Incidents**. 
 
 3. Dans la **Barre de commandes**, sélectionnez le bouton **Nouveau** pour créer un nouvel enregistrement d’incident.
 
@@ -43,7 +43,7 @@ Module 3 : Découvrir les principes fondamentaux de Dynamics 365 Customer Se
 
 11. Cliquez sur le bouton **Enregistrer et fermer**. 
 
-12. Dans **Processus téléphone-incident**, sélectionnez la phase **Identifier **.
+12. Dans **Processus téléphone-incident**, sélectionnez la phase **Identifier**.
 
 13. Cliquez sur le bouton **Phase suivante** pour passer à la phase **Rechercher**. 
 

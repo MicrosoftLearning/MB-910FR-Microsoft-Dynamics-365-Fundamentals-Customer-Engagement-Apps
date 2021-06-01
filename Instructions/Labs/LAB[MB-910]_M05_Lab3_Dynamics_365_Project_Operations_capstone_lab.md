@@ -60,7 +60,7 @@ En tant que vendeur Entreprise, vous êtes chargé de vendre des solutions de s�
 
 ## Configuration du labo
 
-  - **Durée estimée **: 45 minutes
+  - **Durée estimée**: 45 minutes
 
 ## Instructions
 
@@ -168,7 +168,7 @@ Dans cet exercice, vous allez gérer certaines des tâches initiales liées à u
 
 1. Avec le contrat de projet **Implémentation de sécurité globale complète - Vos initiales** ouvert, sélectionnez l’onglet **Associé**. 
 
-2. Dans le menu qui s’affiche, sélectionnez ** Projets**.
+2. Dans le menu qui s’affiche, sélectionnez **Projets**.
 
 3. Ouvrez le projet **Implémentation de sécurité globale complète - Vos initiales**. 
 

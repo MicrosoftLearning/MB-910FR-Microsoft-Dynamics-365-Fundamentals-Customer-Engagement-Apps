@@ -40,9 +40,9 @@ Les appareils IoT occupent une place croissante dans la vie quotidienne.
 
 	- Passez à Connected Field Service
 
-		1. - Montrez comment les appareils IoT sont reflétés dans Connected Field Service
+		1. Montrez comment les appareils IoT sont reflétés dans Connected Field Service
 
-		2. - Montrez comment les alertes IoT sont exposées dans l’application
+		2. Montrez comment les alertes IoT sont exposées dans l’application
 
 			- Utilisez le flux des processus d’entreprise Alerte IoT pour examiner la résolution des alertes IoT
 

@@ -95,7 +95,7 @@ Dans cet exercice, vous allez travailler avec des enregistrements communs qui so
 
 18. Sélectionnez le bouton **Enregistrer et fermer**. 
 
-19. Sur votre clavier, appuyez sur la **touche F5 ** pour actualiser l’écran. 
+19. Sur votre clavier, appuyez sur la **touche F5** pour actualiser l’écran. 
 
 20. Notez que l’ **Assistant** sur le côté droit de l’écran affiche désormais des informations sur le rendez-vous. 
 

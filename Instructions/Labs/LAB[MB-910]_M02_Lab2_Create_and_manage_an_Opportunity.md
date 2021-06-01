@@ -24,7 +24,7 @@ Dans cet exercice, vous allez vous familiariser avec les modalités d’accès a
 
 1. Si elle n’est pas déjà ouverte, ouvrez l’application **Centre des ventes Dynamics 365**. 
 
-2. Dans le volet de navigation de gauche, sélectionnez ** Opportunités**. 
+2. Dans le volet de navigation de gauche, sélectionnez **Opportunités**. 
 
 3. Dans la vue Mes opportunités ouvertes, cliquez sur le bouton **Nouveau** pour créer une opportunité.
 

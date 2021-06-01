@@ -17,7 +17,7 @@ Module 3 : Découvrir les principes fondamentaux de Dynamics 365 Customer Se
 
 1. Ouvrez l’application **Concentrateur du service client Dynamics 365** si elle n’est pas déjà ouverte. 
 
-2. Dans le volet de navigation de gauche, sélectionnez ** Articles de la Base de connaissances **. 
+2. Dans le volet de navigation de gauche, sélectionnez **Articles de la Base de connaissances**. 
 
 3. Pour voir rapidement quels articles sont dans différentes phases, sélectionnez la flèche déroulante à côté de **Mes articles actifs**. 
 
