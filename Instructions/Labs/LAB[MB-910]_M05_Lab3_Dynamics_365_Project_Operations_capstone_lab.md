@@ -1,4 +1,4 @@
----
+﻿---
 lab:
     title: 'Labo 5.3 : Laboratoire Capstone Dynamics 365 Project Operations'
     module: 'Module 5 : Découvrir les principes fondamentaux de Dynamics 365 Project Operations'
@@ -60,7 +60,7 @@ En tant que vendeur Entreprise, vous êtes chargé de vendre des solutions de s�
 
 ## Configuration du labo
 
-  - **Durée estimée**: 45 minutes
+  - **Durée estimée **: 45 minutes
 
 ## Instructions
 
@@ -74,9 +74,9 @@ Dans cet exercice, vous allez créer un projet et définir les détails liés au
 
 1. Avec l’opportunité de projet ouverte, sélectionnez l’onglet **Devis**. 
 
-2. Dans la sous-grille Devis, cliquez sur le bouton **Nouveau devis**.
+2. Dans la sous-grille Devis, sélectionnez le bouton **Nouveau devis**.
 
-3. Une fois que le nouvel enregistrement de devis est ouvert, définissez le champ **Tarifs des produits** sur **Produits et services empaquetés**. 
+3. Une fois que le nouvel enregistrement de devis est ouvert, définissez le champ **Tarifs des produits** sur **Taux de facturation US**. 
 
 4. Sélectionnez l’onglet **Lignes du devis**.
 
@@ -132,7 +132,6 @@ Dans cet exercice, vous allez créer un projet et définir les détails liés au
 
 	- **Unité :** Heure
 
-	- **Montant des ventes :** 50 000
 
 15. Cliquez sur le bouton **Enregistrer et fermer** pour fermer l’élément de détail de ligne. 
 
@@ -168,7 +167,7 @@ Dans cet exercice, vous allez gérer certaines des tâches initiales liées à u
 
 1. Avec le contrat de projet **Implémentation de sécurité globale complète - Vos initiales** ouvert, sélectionnez l’onglet **Associé**. 
 
-2. Dans le menu qui s’affiche, sélectionnez **Projets**.
+2. Dans le menu qui s’affiche, sélectionnez ** Projets**.
 
 3. Ouvrez le projet **Implémentation de sécurité globale complète - Vos initiales**. 
 
@@ -268,7 +267,7 @@ Dans le cadre de la définition d’une planification de projet, vous pouvez sp�
 
 1. Si nécessaire, ouvrez le projet **Implémentation de sécurité globale complète - Vos initiales** et sélectionnez l’onglet **Planifier**. 
 
-2. Localisez la tâche **Créer une topologie système** que vous avez ajoutée précédemment et cliquez sur le champ **Ressources**. 
+2. Localisez la tâche **Créer une topologie système** que vous avez ajoutée précédemment et sélectionnez le champ **Ressources**. 
 
 3. Dans le menu qui apparaît, sélectionnez **Créer**. 
 

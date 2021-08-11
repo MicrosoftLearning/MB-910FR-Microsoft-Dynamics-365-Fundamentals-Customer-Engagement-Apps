@@ -1,4 +1,4 @@
----
+﻿---
 lab:
     title: 'Labo 3.1 : Créer et publier un article de Base de connaissances dans Dynamics 365 Customer Service'
     module: 'Module 3 : Découvrir les principes fondamentaux de Dynamics 365 Customer Service'
@@ -11,23 +11,25 @@ Module 3 : Découvrir les principes fondamentaux de Dynamics 365 Customer Se
 
 ## Configuration du labo
 
-  - **Durée estimée**: 15 minutes
+  - **Durée estimée **: 15 minutes
 
 ## Instructions
 
 1. Ouvrez l’application **Concentrateur du service client Dynamics 365** si elle n’est pas déjà ouverte. 
 
-2. Dans le volet de navigation de gauche, sélectionnez **Articles de la Base de connaissances**. 
+2. Dans le volet de navigation de gauche, sélectionnez ** Articles de la Base de connaissances **. 
 
 3. Pour voir rapidement quels articles sont dans différentes phases, sélectionnez la flèche déroulante à côté de **Mes articles actifs**. 
 
-4. Sélectionnez **Brouillons d’article**. Vous verrez probablement deux articles en mode brouillon.
+4. Sélectionnez la vue **Brouillons d’article**. 
 
-5. Sélectionnez **Articles approuvés**. Vous devriez voir au moins un article approuvé. 
+5. Sélectionnez **Articles approuvés**. 
 
 6. Revenez à **Mes articles actifs**
 
 7. Dans la **Barre de commandes**, cliquez sur le bouton **Nouveau**. 
+
+8. Une fois que le nouvel enregistrement est ouvert, sélectionnez la flèche déroulante à côté du champ **Raison de l’état** dans l’en-tête de l’enregistrement en haut. Définissez **Langue** sur **Français - France**.
 
 8. Renseignez l’article comme suit :
 
@@ -51,7 +53,7 @@ Module 3 : Découvrir les principes fondamentaux de Dynamics 365 Customer Se
 
 	4. Sélectionnez Endommagé comme raison
 
-	5. Cliquez sur Imprimer
+	5. Sélectionner Imprimer
 
 Une fois que nous aurons reçu l’article retourné/endommagé, votre compte sera recrédité du montant.
 
@@ -77,13 +79,13 @@ Une fois que l’auteur a créé l’article initial, ce dernier passe général
 
 18. Il vous sera demandé de confirmer l’approbation de l’article. Cliquez sur **OK**. 
 
-19. Cliquez sur le bouton **Phase suivante** pour passer à la phase **Publier**. 
+19. Appuyez sur le bouton **Phase suivante** pour passer à la phase **Publier**. 
 
 20. Dans la **Barre de commandes** en haut de l’article, sélectionnez les **trois points verticaux** à gauche de la barre de commandes. Dans le menu qui s’affiche, sélectionnez **Associer un produit**. 
 
 21. Dans la fenêtre **Associer un produit**, sélectionnez **Office 365 pour Entreprise (exemple).**
 
-22. Cliquez sur le bouton **Associer**. 
+22. Sélectionnez le bouton **Associer**. 
 
 23. Dans **Nouveau processus**, sélectionnez la phase **Publier**. 
 
@@ -91,9 +93,9 @@ Une fois que l’auteur a créé l’article initial, ce dernier passe général
 
 25. Définissez la **Date d’expiration** sur **une année à compter de ce jour à 00h00**. 
 
-26. Cliquez sur le bouton **Terminer** pour terminer le processus. 
+26. Sélectionnez le bouton **Terminer** pour terminer le processus. 
 
-27. Dans la **Barre de commandes** de l’article, cliquez sur le bouton **Publier**. 
+27. Dans la **Barre de commandes** de l’article, sélectionnez le bouton **Publier**. 
 
 28. Vérifiez que les champs suivants sont sélectionnés :
 

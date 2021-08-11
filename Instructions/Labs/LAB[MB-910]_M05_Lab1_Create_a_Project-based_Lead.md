@@ -1,4 +1,4 @@
----
+﻿---
 lab:
     title: 'Labo 5.1 : Créer un prospect basé sur un projet'
     module: 'Module 5 : Découvrir les principes fondamentaux de Dynamics 365 Project Operations'
@@ -54,7 +54,7 @@ En tant que vendeur Entreprise, vous êtes chargé de vendre des solutions de s�
 
 ## Configuration du labo
 
-  - **Durée estimée**: 10 minutes
+  - **Durée estimée **: 10 minutes
 
 ## Instructions
 
@@ -66,11 +66,15 @@ En tant que vendeur Entreprise, vous êtes chargé de vendre des solutions de s�
 
 2.  À l’invite, connectez-vous avec les identifiants utilisateur que l’instructeur vous a fournis. 
 
-3. Dans la liste d’applications qui s’affiche, sélectionnez **Project Operations**. **(Remarque :** elle peut aussi s’appeler Project Service)
+3. Dans la liste d’applications qui s’affiche, sélectionnez **Project Service**. 
 
-4. Dans le volet de navigation de gauche, sélectionnez la zone **Projets**. 
+4. Si Project Service n’est pas présent, visitez trials.dynamics.com et installez la version d’essai de Project Service. 
 
-5. Dans le menu qui s’affiche, sélectionnez **Ventes**.
+	- Adresse e-mail professionnelle adresse e-mail du client. 
+
+	- Numéro de téléphone : téléphone mobile
+
+5. Dans le volet de navigation de gauche, sélectionnez la zone **Ventes**. 
 
 6. Dans le volet de navigation de gauche, sélectionnez **Prospects**. 
 
@@ -106,19 +110,19 @@ En tant que vendeur Entreprise, vous êtes chargé de vendre des solutions de s�
 
 11. Cliquez sur le bouton **Enregistrer** dans la barre de commandes pour enregistrer le nouveau prospect et laissez-le ouvert.
 
-12. Remarquez le flux des processus d’entreprise **prospect-opportunité** en haut de l’enregistrement. Cliquez sur la **phase de qualification** pour la sélectionner. Renseignez la phase comme suit :
+12. Remarquez le flux des processus d’entreprise **prospect-opportunité** en haut de l’enregistrement. Cliquez sur la **Phase de qualification** pour la sélectionner. Renseignez la phase comme suit :
 
 	- **Période d’achat :** Ce trimestre
 
-	- **Budget estimé :** 25 000  
+	- **Budget estimé :** 25000  
 
 	- **Processus d’achat :** Comité
 
 	- **Identifier le décisionnaire :** Terminé
 
-13. Cliquez sur le symbole **X** dans la fenêtre de la phase pour la fermer. 
+13. Cliquez sur le symbole **X** dans la fenêtre de la phase pour fermer la fenêtre. 
 
-14. Dans la **Chronologie des enregistrements** au milieu de l’écran, cliquez sur l’**icône de signe plus** pour ajouter une nouvelle activité. 
+14. Accédez à la **Chronologie des enregistrements** au milieu de l’écran et sélectionnez l’**icône du signe Plus** pour ajouter une nouvelle activité. 
 
 15. Dans le menu qui apparaît, sélectionnez **Appel téléphonique**.
 
@@ -132,7 +136,7 @@ En tant que vendeur Entreprise, vous êtes chargé de vendre des solutions de s�
 
 	- **Description :** Conversation initiale avec Jean pour déterminer la qualification initiale. 
 
-17. Cliquez sur le bouton **Enregistrer et fermer**.
+17. Sélectionnez le bouton **Enregistrer et fermer**.
 
 18. Vous remarquerez que l’activité **Appel de qualification initiale** est maintenant affichée dans la **Chronologie des enregistrements**. Pointez sur l’activité et sélectionnez l’activité de fermeture **Icône de coche** pour marquer l’appel téléphonique comme terminé. 
 
@@ -148,5 +152,5 @@ En tant que vendeur Entreprise, vous êtes chargé de vendre des solutions de s�
 
 3. Sélectionnez la phase **Développer** pour revenir à l’opportunité.
 
-4. Cliquez sur le bouton **Enregistrer et fermer** pour fermer l’enregistrement d'opportunité créé. 
+4. Sélectionnez le bouton **Enregistrer et fermer** pour fermer l’enregistrement d’opportunité créé. 
 

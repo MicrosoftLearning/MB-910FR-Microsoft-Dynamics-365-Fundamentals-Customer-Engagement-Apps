@@ -1,4 +1,4 @@
----
+﻿---
 lab:
     title: 'Labo 1.7 : Laboratoire Capstone Dynamics 365 Marketing'
     module: 'Module 1 : Découvrir les principes fondamentaux de Dynamics 365 Marketing'
@@ -8,6 +8,8 @@ Module 1 : Découvrir les principes fondamentaux de Dynamics 365 Marketing
 ========================
 
 ## Labo pratique 1.7 - Laboratoire Capstone Dynamics 365 Marketing
+
+**Remarque :** Les courriers électroniques de marketing ne peuvent pas être créés ou modifiés dans Internet Explorer. Nous vous recommandons d’utiliser Microsoft Edge ou Google Chrome pour effectuer cet exercice.
 
 ## Scénario de laboratoire
 
@@ -57,7 +59,7 @@ Une campagne marketing récente ciblant des propriétaires de maison à Portland
 
 ## Configuration du labo
 
-  - **Durée estimée**: 45 minutes
+  - **Durée estimée **: 45 minutes
 
 ## Instructions
 
@@ -69,57 +71,57 @@ Une campagne marketing récente ciblant des propriétaires de maison à Portland
 
 3. Pour créer un nouveau courrier électronique de marketing, dans la **Barre de commandes**, sélectionnez **Nouveau**.
 
-4. Dans la liste des **Modèles de courrier électronique de marketing**, sélectionnez **1 column newsletter** et cliquez sur le bouton **Sélectionner**.
+4. Dans la liste des **Modèles de courrier électronique de marketing**, sélectionnez **1 column newsletter** et sélectionnez le bouton **Sélectionner**.
 
 5. Une fois que le nouvel enregistrement est ouvert, sélectionnez la flèche déroulante à côté du champ **Raison de l’état** dans l’en-tête de l’enregistrement en haut. 
 
 6. Dans le champ **Nom**, entrez **Sécurité du domicile - Vos initiales**. 
 
-7. Dans le champ **Objet**, entrez le texte **Protégez votre famille** !
+7. Dans le champ **Objet**, entrez le texte **Protégez votre famille** ! Il se peut que vous deviez faire défiler jusqu’en haut de la page Création pour révéler le champ Objet.
 
 8. Dans la fenêtre de message, localisez et sélectionnez la petite image **au-dessus** du texte **En-tête court à intégrer ici**. 
 
-9. Survolez et sélectionnez le bouton **Galerie d’images**. 
+9. Dans le volet Propriétés, survolez et sélectionnez le bouton **Galerie d’images**. 
 
-10. Sélectionnez l’image **Security2** et cliquez sur le bouton **Sélectionner** pour l’insérer dans votre courrier électronique. 
+10. Sélectionnez l’image **contosologo.png** et sélectionnez le bouton **Sélectionner** pour l’insérer dans votre courrier électronique. 
 
 11. Utilisez les poignées de taille sur l’image pour dimensionner l’image à la taille souhaitée. 
 
-12. Cliquez pour sélectionner la zone **En-tête court à intégrer ici**. Modifiez le texte en **Sentez-vous en sécurité 24h/24, 7j/7**.
+12. Sélectionnez la zone **En-tête court à intégrer ici**. Modifiez le texte en **Sentez-vous en sécurité 24h/24, 7j/7**.
 
-13. Cliquez dans la section sous le texte que vous venez de modifier. 
+13. Sélectionnez la section sous le texte que vous venez de modifier. 
 
 14. Remplacez le texte par le texte suivant : Savez-vous ce qui se passe chez vous et alentour ? Se sentir en sécurité, que ce soit chez vous ou loin de votre domicile, est un besoin fondamental. Le système de sécurité adéquat apporte ce sentiment de sécurité mais permet également de réduire le coût de votre assurance. 
 
 15. Sélectionnez **Image** juste en dessous du texte que vous avez ajouté. 
 
-16. Survolez et sélectionnez le bouton **Galerie d’images**. 
+16. Sélectionnez le bouton **Galerie d’images**. 
 
-17. Sélectionnez l’image **Security1** et cliquez sur le bouton **Sélectionner** pour l’insérer dans votre courrier électronique. 
+17. Sélectionnez l’image **safebox.png** puis sélectionnez le bouton **Sélectionner** pour l’insérer dans votre courrier électronique. 
 
-18. Dimensionnez l’image jusqu’à ce qu’elle occupe une partie importante de la fenêtre du message. 
+18. Dimensionnez l’image. 
 
 19. Sélectionnez **Zone d’en-tête ou de titre** juste en dessous de l’image, remplacez le texte existant par le texte **Vous êtes à la bonne adresse**. 
 
-20. Cliquez dans la zone de texte sous l’en-tête que vous venez de modifier. 
+20. Sélectionnez la zone de texte sous l’en-tête que vous venez de modifier. 
 
 21. Remplacez le texte par le texte suivant : **Nos systèmes primés sont là pour vous protéger.**
 
-22. Cliquez pour sélectionner toute la section sous la section que vous venez de modifier. Appuyez sur l’icône de **poubelle** pour supprimer la section. 
+22. Sélectionnez toute la section sous la section que vous venez de modifier. Appuyez sur l’icône de **poubelle** pour supprimer la section. 
 
-23. Répétez le processus pour les sections restantes du message. 
+23. Répétez le processus pour les sections restantes ou autres éléments du message.
 
 24. Avant de mettre le courrier électronique en ligne, nous le vérifions pour voir s’il ne contient pas d’erreur. Dans la **Barre de commandes**, sélectionnez le bouton **Rechercher les erreurs**. 
 
 25. Après vous être assuré qu’il n’y a pas d’erreur, dans la **Barre de commandes**, sélectionnez **Mise en service**. 
 
-26. Cliquez sur le flèche déroulante à côté du bouton **Enregistrer** dans la barre de commandes et sélectionnez **Enregistrer et fermer.e**. 
+26. Sélectionnez la flèche déroulante à côté du bouton **Enregistrer ** dans la barre de commandes et sélectionnez **Enregistrer et fermer**. 
 
-Vous avez correctement créé un courrier électronique de marketing que vous pouvez exploiter dans d’autres domaines de l’application Marketing. 
+27. Si vous avez utilisé la même adresse e-mail pour les deux contacts, vous recevrez une alerte **Enregistrements en double détectés**. Choisissez **Ignorer et enregistrer**.
 
 ## Exercice 2 : Créer un segment dans Dynamics 365 Marketing
 
-### Tâche 1 : Ajouter des exemples de contacts à utiliser 
+### Tâche 1 : Ajouter des exemples de contacts à utiliser 
 
 1. Dans le volet de navigation de gauche, sélectionnez Contacts sous Groupe de clients
 
@@ -127,15 +129,15 @@ Vous avez correctement créé un courrier électronique de marketing que vous po
 
 3. Remplissez la page **Nouveau contact** comme suit.
 
-	- **Prénom**: Piper 
+	- **Prénom **: Piper 
 
-	- **Nom**: Smith - Vos initiales
+	- **Nom **: Smith - Vos initiales
 
-	- **E-mail**: Entrez une adresse e-mail dont vous pouvez recevoir du courrier.
+	- **E-mail **: Entrez une adresse e-mail dont vous pouvez recevoir du courrier.
 
 	- **Adresse 1 Rue 1 :** 1989 191<sup data-htmlnode="">st</sup> Ave N
 
-	- **Adresse 1 : Ville**: Seattle
+	- **Adresse 1 : Ville **: Seattle
 
 	- **Adresse 1 État :** WA
 
@@ -149,15 +151,15 @@ Vous avez correctement créé un courrier électronique de marketing que vous po
 
 7. Remplissez la page du second contact comme suit :
 
-	- **Prénom**: Votre prénom
+	- **Prénom **: Votre prénom
 
-	- **Nom**: Votre adresse e-mail
+	- **Nom **: Votre adresse e-mail
 
-	- **E-mail**: Entrez une adresse e-mail dont vous pouvez recevoir du courrier.
+	- **E-mail **: Entrez une adresse e-mail dont vous pouvez recevoir du courrier.
 
 	- **Adresse 1 Rue 1 :** 1989 191<sup data-htmlnode="">st</sup> Ave N
 
-	- **Adresse 1 : Ville**: Seattle
+	- **Adresse 1 : Ville **: Seattle
 
 	- **Adresse 1 État :** WA
 
@@ -185,13 +187,13 @@ La création d’un segment client définit les clients que vous souhaitez cible
 
 8. Notez que la table des contacts est sélectionnée par défaut. N’apportez pas de modification. 
 
-9. Cliquez pour sélectionner le texte fantôme **Sélectionner un attribut**. 
+9. Sélectionnez le texte **Sélectionner un attribut**. 
 
 10. Entrez le mot Ville pour filtrer la liste. Choisissez **Adresse 1 : Ville** dans la liste.
 
 11. Laissez la liste déroulante suivante définie sur **Égal à**. 
 
-12. Sélectionnez la troisième liste déroulante qui contient le texte fantôme **Entrer du texte** et saisissez **Seattle**.
+12. Sélectionnez la troisième liste déroulante qui contient le texte **Entrer du texte** et saisissez **Seattle**.
 
 13. Sélectionnez **Enregistrer** dans la barre de commandes pour enregistrer le segment.
 
@@ -211,15 +213,15 @@ Maintenant que nous avons créé votre segment, vérifions que le segment dynami
 
 3. Remplissez la page **Nouveau contact** comme suit.
 
-	- **Prénom**: Rick
+	- **Prénom **: Rick
 
-	- **Nom**: Jones - Vos initiales
+	- **Nom **: Jones - Vos initiales
 
-	- **E-mail**: Entrez une adresse e-mail dont vous pouvez recevoir du courrier.
+	- **E-mail **: Entrez une adresse e-mail dont vous pouvez recevoir du courrier.
 
 	- **Adresse 1 Rue 1 :** 1989 191<sup data-htmlnode="">st</sup> Ave N
 
-	- **Adresse 1 : Ville**: Seattle
+	- **Adresse 1 : Ville **: Seattle
 
 	- **Adresse 1 État :** WA
 
@@ -231,7 +233,7 @@ Maintenant que nous avons créé votre segment, vérifions que le segment dynami
 
 6. Ouvrez le segment **Clients de Seattle - Vos initiales** que vous avez créé précédemment. 
 
-7. Sélectionnez l’onglet **Membres**. Notez que **Rick Jones - Vos initiales** devrait maintenant être présent. 
+7. Sélectionnez l’onglet **Membres**. Notez que **Rick Jones - Vos initiales** devrait maintenant être présent. Il peut être nécessaire d’actualiser la vue.
 
 **IMPORTANT :** Étant donné que nous travaillons dans un environnement partagé et que tout le monde utilise le même système, il est probable que vous verrez également les autres Contacts dans le segment Marketing dynamique. Cela ne présente aucun problème dans l’objectif de ce cours. 
 
@@ -247,7 +249,7 @@ Maintenant que nous avons créé le contenu marketing que nous souhaitons livrer
 
 4. Dans la zone **Audience**, vérifiez que **Type de source** est défini sur **Segment**. 
 
-5. Cliquez sur la recherche de segment sous la liste déroulante **Inclusion**. 
+5. Sélectionnez la recherche de segment sous la liste déroulante **Inclusion**. 
 
 6. Entrez le texte **Seattle** et sélectionnez le segment **Clients de Seattle** que vous avez créé précédemment. 
 
@@ -257,11 +259,11 @@ Maintenant que nous avons créé le contenu marketing que nous souhaitons livrer
 
 9. Déplacez votre curseur après l’action Envoyer un courrier électronique. Sélectionnez le signe **+** et dans le menu qui s’affiche, sélectionnez **Si/alors**.
 
-10. Dans la zone **Si/alors** sur le côté gauche de l’écran, sous Conditions, cliquez dans le champ **Sélectionner une source**. 
+10. Dans la zone **Si/alors** sur le côté gauche de l’écran, sous Conditions, sélectionnez le champ **Sélectionner une source**. 
 
 11. Sélectionnez le segment **Sécurité du domicile - Vos initiales**. 
 
-12. Cliquez dans le champ **Sélectionner une condition**. Choisissez **un lien a fait l’objet d’un clic**.
+12. Sélectionnez le champ **Sélectionner une condition**. Choisissez **un lien a fait l’objet d’un clic**.
 
 13. Dans le chemin **Oui**, sélectionnez le signe **+**. Dans le menu qui s’affiche, sélectionnez **Créer un prospect**.
 
@@ -269,13 +271,13 @@ Maintenant que nous avons créé le contenu marketing que nous souhaitons livrer
 
 15. Sélectionnez l’onglet Général qui se trouve vers le haut de l’enregistrement Parcours du client. Entrez les informations suivantes dans l’onglet **Général** :
 
-	- **Nom**: Promotion d’automne Région de Seattle - Vos initiales
+	- **Nom **: Promotion d’automne Région de Seattle - Vos initiales
 
-	- **Date et heure de début**: Entrez la date d’aujourd’hui
+	- **Date et heure de début **: Entrez la date d’aujourd’hui
 
-	- **Date et heure de fin**: Un mois à compter d’aujourd’hui
+	- **Date et heure de fin **: Un mois à compter d’aujourd’hui
 
-	- **Fuseau horaire**: Sélectionnez votre fuseau horaire local 
+	- **Fuseau horaire **: Sélectionnez votre fuseau horaire local 
 
 16. Dans la barre de commandes, sélectionnez **Enregistrer** pour enregistrer le travail que vous avez réalisé jusqu’à présent.
 

@@ -1,4 +1,4 @@
----
+﻿---
 demo:
     title: 'Démo : Gestion des actifs et Connected Field Service'
     module: 'Module 4 : Découvrir les principes fondamentaux de Dynamics 365 Customer Service'
@@ -10,7 +10,7 @@ demo:
 
 Les appareils IoT occupent une place croissante dans la vie quotidienne. 
 
-1. Les clients possèdent souvent des actifs physiques qui requièrent des interventions et une maintenance. Ces actifs font souvent l’objet d’une installation initiale, souvent avec ouverture de contrats de maintenance préventive. Dynamics 365 Field Service inclut une fonctionnalité de gestion des actifs qui fonctionne conjointement avec la fonctionnalité Connected Field Service 
+1. Les clients possèdent souvent des actifs physiques qui requièrent des interventions et une maintenance.  Si l’actif est un appareil connecté, il peut inclure des capteurs IoT capables de retransmettre des informations.  À l’origine, les actifs sont souvent installés dans le cadre d’un ordre d’exécution.  Une fois ces actifs installés, des contrats de maintenance préventive peuvent être mis en place pour assurer une maintenance planifiée de ces actifs.  Dynamics 365 Field Service inclut une fonction de gestion des actifs qui se combine à la fonction Connected Field Service.    
 
 	- Créez un actif client
 
@@ -40,9 +40,9 @@ Les appareils IoT occupent une place croissante dans la vie quotidienne.
 
 	- Passez à Connected Field Service
 
-		1. Montrez comment les appareils IoT sont reflétés dans Connected Field Service
+		1. - Montrez comment les appareils IoT sont reflétés dans Connected Field Service
 
-		2. Montrez comment les alertes IoT sont exposées dans l’application
+		2. - Montrez comment les alertes IoT sont exposées dans l’application
 
 			- Utilisez le flux des processus d’entreprise Alerte IoT pour examiner la résolution des alertes IoT
 

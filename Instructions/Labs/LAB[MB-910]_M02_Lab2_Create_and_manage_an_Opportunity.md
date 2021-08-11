@@ -1,4 +1,4 @@
----
+﻿---
 lab:
     title: 'Labo 2.2 : Créer et gérer une opportunité dans Dynamics 365 Sales'
     module: 'Module 2 : Découvrir les principes fondamentaux de Dynamics 365 Sales'
@@ -16,7 +16,7 @@ Au cours de cet exercice, vous allez capturer manuellement une opportunité de v
 
 ## Configuration du labo
 
-  - **Durée estimée**: 25 minutes
+  - **Durée estimée **: 25 minutes
 
 ## Instructions
 
@@ -24,7 +24,7 @@ Dans cet exercice, vous allez vous familiariser avec les modalités d’accès a
 
 1. Si elle n’est pas déjà ouverte, ouvrez l’application **Centre des ventes Dynamics 365**. 
 
-2. Dans le volet de navigation de gauche, sélectionnez **Opportunités**. 
+2. Dans le volet de navigation de gauche, sélectionnez ** Opportunités**. 
 
 3. Dans la vue Mes opportunités ouvertes, cliquez sur le bouton **Nouveau** pour créer une opportunité.
 
@@ -32,9 +32,9 @@ Dans cet exercice, vous allez vous familiariser avec les modalités d’accès a
 
 	- **Rubrique :** Souhaite mettre à niveau son équipement existant - Vos initiales
 
-	- **Compte :** Adventure Works
+	- **Contact :** Jay Klein
 
-	- **Contact :** Jim Glynn
+	- **Compte :** Northwind Traders
 
 	- **Période d’achat :** Ce trimestre
 
@@ -68,7 +68,7 @@ Dans cet exercice, vous allez vous familiariser avec les modalités d’accès a
 
 13. Dans la sous-grille Équipe de vente, sélectionnez les **points de suspension verticaux**. Dans le menu qui s’affiche, sélectionnez **Nouvelle connexion**. 
 
-14. Recherchez et sélectionnez votre enregistrement utilisateur. Une fois que vous avez terminé, cliquez sur le bouton **Ajouter**. 
+14. Recherchez et sélectionnez votre enregistrement utilisateur. Une fois que vous avez terminé, sélectionnez le bouton **Ajouter**. 
 
 15. Dans la sous-grille Concurrents, sélectionnez les **points de suspension verticaux**. Dans le menu qui s’affiche, sélectionnez **Ajouter un concurrent existant**. 
 
@@ -78,13 +78,13 @@ Dans cet exercice, vous allez vous familiariser avec les modalités d’accès a
 
 18. Sélectionnez le bouton **Enregistrer et fermer**.
 
-19. **Coho Technologies** doit être sélectionné dans la fenêtre Rechercher un enregistrement. Cliquez sur le bouton **Ajouter** pour finir d’ajouter le concurrent. 
+19. **Coho Technologies** doit être sélectionné dans la fenêtre Rechercher un enregistrement. Sélectionnez le bouton **Ajouter** pour finir d’ajouter le concurrent. 
 
 20. Cliquez pour sélectionner la phase **Développer** dans le flux des processus d’entreprise **prospect-opportunité**, puis définissez les deux étapes **Identifier les parties prenantes** et **Identifier les concurrents** sur **Terminé**. 
 
-21. Cliquez sur le bouton **Phase suivante** pour passer à la phase **Proposer**.
+21. Sélectionnez le bouton **Nouvelle phase** pour passer à la phase **Proposer**.
 
-22. Dans la phase **Proposer**, marquez les quatre étapes comme étant **terminées** et cliquez sur le bouton **Phase suivante** pour passer à la phase **Fermer**. 
+22. Dans la phase **Proposer**, marquez les quatre étapes comme étant **terminées** et sélectionnez le bouton **Phase suivante** pour passer à la phase **Fermer**. 
 
 23. Dans la phase **Fermer**, marquez les étapes **Effectuer la proposition finale**, **Présenter la proposition finale**, **Envoyer une carte de remerciement** et **Compte rendu du fichier** comme étant **terminées**. 
 
@@ -94,4 +94,4 @@ Dans cet exercice, vous allez vous familiariser avec les modalités d’accès a
 
 26. Maintenant que vous avez terminé le processus d’entreprise, vous devez fermer l’opportunité. Dans la **Barre de commandes** de l’opportunité, cliquez sur le bouton **Fermer comme conclu**. 
 
-27. Sur l’écran **Fermer l’opportunité**, cliquez sur le bouton **OK** pour finir de fermer l’enregistrement d’opportunité. 
+27. Sur l’écran **Fermer l’opportunité**, sélectionnez le bouton **OK** pour finir de fermer l’enregistrement d’opportunité. 

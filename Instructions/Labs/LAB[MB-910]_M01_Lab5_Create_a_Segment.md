@@ -1,4 +1,4 @@
----
+﻿---
 lab:
     title: 'Labo 1.5 : Créer un segment dans Dynamics 365 Marketing'
     module: 'Module 1 : Découvrir les principes fondamentaux de Dynamics 365 Marketing'
@@ -15,11 +15,12 @@ Lors de cet exercice, vous constaterez qu’il est très facile de créer des se
 
 ## Configuration du labo
 
-  - **Durée estimée**: 20 minutes
+  - **Durée estimée **: 20 minutes
 
 ## Instructions
 
-1. Dans le volet de navigation de gauche, sélectionnez Segments sous Marketing. 
+
+1. Ouvrez l’application Dynamics Marketing. La zone **Marketing** devrait être sélectionnée. Sélectionnez **Segments** sous **Clients**.
 
 2. Sélectionnez **Nouveau** dans la barre de commandes.
 
@@ -29,15 +30,15 @@ Lors de cet exercice, vous constaterez qu’il est très facile de créer des se
 
 5. Sélectionnez **Ajouter un bloc de requête** pour créer une requête concernant la table des contacts. 
 
-6. Sélectionnez le texte fantôme **Sélectionner un attribut**. 
+6. Sélectionnez le contrôle **Sélectionner un attribut**.
 
-7. Tapez ensuite « ville » pour filtrer la liste et choisissez **Adresse 1 : Ville** dans la liste.
+7. Tapez « ville » pour filtrer la liste et sélectionnez **Adresse 1 : Ville**.
 
 8. Laissez la liste déroulante suivante définie sur **Égal à**. 
 
-9. Sélectionnez la troisième liste déroulante qui contient le texte fantôme **Entrer du texte** et saisissez **Redmond**.
+9. Cliquez sur **Type à rechercher** et saisissez **Chicago**.
 
-10. Cliquez pour sélectionnez le champ **Nom** en haut de la requête et saisissez **Contacts Fargo - Vos initiales**.
+10. Sélectionnez le champ **Nom** en haut de la requête et saisissez **Contacts Chicago - Vos initiales**.
 
 11. Sélectionnez **Enregistrer** dans la Barre de commandes pour enregistrer votre segment.
 
@@ -45,4 +46,4 @@ Lors de cet exercice, vous constaterez qu’il est très facile de créer des se
 
 13. Attendez environ une minute, puis sélectionnez **Actualiser** dans la barre de commandes pour actualiser la page. 
 
-14. Vous devriez maintenant voir qu’un onglet **Membres** a été ajouté. 
+14. Vous devriez maintenant voir qu’un onglet **Membres** a été ajouté. Jackson Anderson apparaît dans la liste.

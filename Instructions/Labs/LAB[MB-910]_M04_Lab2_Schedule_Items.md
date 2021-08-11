@@ -1,4 +1,4 @@
----
+﻿---
 lab:
     title: 'Labo 4.2 : Planifier des éléments avec Dynamics 365 Field Service'
     module: 'Module 4 : Découvrir les principes fondamentaux de Dynamics 365 Field Service'
@@ -11,61 +11,96 @@ Module 4 : Découvrir les principes fondamentaux de Dynamics 365 Field Servi
 
 ## Configuration du labo
 
-  - **Durée estimée**: 20 minutes
+  - **Durée estimée **: 20 minutes
+
+  **Remarque :** Il n’est pas possible d’ouvrir le volet Besoins en réservations dans Internet Explorer. Nous vous recommandons d’utiliser Microsoft Edge ou Google Chrome pour effectuer cet exercice.
   
 ## Instructions
 
 1. Ouvrez l’application **Dynamics 365 Field Service** si elle n’est pas déjà ouverte. 
 
-2. Dans le volet de navigation de gauche, sélectionnez **Ordres de travail**.
+2. Dans le volet de navigation de gauche, sélectionnez la zone **Ressources**, puis sélectionnez **Ressources**.
 
-3. Dans la **Barre de commandes**, sélectionnez le bouton **Nouveau** pour créer un nouvel ordre de travail.
+3. Dans la **Barre de commandes**, sélectionnez le bouton **Nouveau** pour créer un nouvelle ressource pouvant être réservée.
 
-4. Renseignez les détails de l’ordre de travail comme suit :
+	- **Type de ressource :** Contact
 
-	- **Compte de service :** A. Datum Corporation (exemple)
+	- **Contact :** Eleanor Ribeiro
 
-	- **Type d’ordre de travail**: Service
+4. Dans la **Barre de commandes**, sélectionnez le bouton **Enregistrer et fermer**.
 
-	- **Tarifs :** Tarifs par défaut
+5. Répétez les étapes pour créer trois autres ressources pouvant être réservées.
+
+	- **Type de ressource :** Contact
+
+	- **Contact :** Abbie Gardiner
+
+
+	- **Type de ressource :** Contact
+
+	- **Contact :** Aidan Knaggs
+	
+	- Sélectionnez l’onglet Associé et ajoutez un nouveau territoire associé : WA
+
+
+	- **Type de ressource :** Contact
+
+	- **Contact :** Cacilia Viera
+	
+	- Sélectionnez l’onglet Associé et ajoutez un nouveau territoire associé : WA
+
+
+6. Dans la **Barre de commandes**, sélectionnez le bouton **Enregistrer et fermer**.
+
+Dans le volet de navigation de gauche, sélectionnez la zone **Ressources**, puis sélectionnez **Ordres de travail**.
+
+8. Dans la **Barre de commandes**, sélectionnez le bouton **Nouveau** pour créer un nouvel ordre de travail.
+
+9. Renseignez les détails de l’ordre de travail comme suit :
+
+	- **Compte de service :** Adatum Corporation
+
+	- **Type d’ordre de travail **: Service
+
+	- **Tarifs :** CRM Service USE (exemple)
 
 	- **Imposable :** Non
 
-	- **Type d’incident principal :** Surchauffe de l’appareil
+10. Sélectionnez **Enregistrer** pour enregistrer vos modifications.
 
-5. Sélectionnez **Enregistrer** pour enregistrer vos modifications.
+	- **Type d’incident principal :** Surchauffe de l’appareil (créer un nouveau)
 
-6. Dans la **Barre de commandes** de l’**Ordre de travail**, cliquez sur le bouton **Réserver**. L’**Assistant Planifier** s’ouvre alors. 
+11. Dans la **Barre de commandes** de l’**Ordre de travail**, cliquez sur le bouton **Réserver**. L’**Assistant Planifier** s’ouvre alors. 
 
-7. Des options de planification de l’élément devraient vous être proposées. Sélectionnez l’enregistrement **Ryan Brim**.
+12. Des options de planification de l’élément devraient vous être proposées. Sélectionnez l’enregistrement **Abbie Gardiner**.
 
-8. Dans la fenêtre **Créer une réservation de ressource**, définissez **Heure de début** sur le début de l’heure suivante.
+13. Dans la fenêtre **Créer une réservation de ressource**, définissez **Heure de début** sur le début de l’heure suivante.
 
-9. Définissez **Heure de fin** sur les **2,5 heures** suivantes. 
+14. Définissez **Heure de fin** sur les **2,5 heures** suivantes. 
 
-10. Sélectionnez le bouton **Réserver et quitter** pour réserver l’élément et quitter la fenêtre de planification. 
+15. Sélectionnez le bouton **Réserver et quitter** pour réserver l’élément et quitter la fenêtre de planification. 
 
-11. Une fois revenu dans l’ordre de travail, cliquez sur le bouton **Enregistrer et fermer** dans la barre de commandes. 
+16. Une fois revenu dans l’ordre de travail, sélectionnez le bouton **Enregistrer et fermer** dans la barre de commandes. 
 
-12. Dans le volet de navigation de gauche, sélectionnez **Tableau de planification**.
+17. Dans le volet de navigation de gauche, sélectionnez **Ordres de travail**. Sélectionnez la vue **Ordres de travail non planifiés**.
 
-13. Au bas de l’écran du volet Besoins, sélectionnez **Ordres de travail non planifiés**.
+18. Le volet Besoins en réservations s’affiche en bas de l’écran. Utilisez la poignée dans la partie intermédiaire supérieure du volet pour l’ouvrir. Sélectionnez l’onglet **Ordres de travail non planifiés**.
 
-14. Sélectionnez l’ordre de travail **Adventure Works** que vous avez créé précédemment en utilisant le n° d’ordre de travail que vous aviez noté. Dans les options qui s’affichent, sélectionnez **Rechercher la disponibilité**. 
+19. Sélectionnez l’ordre de travail **Adventure Works** que vous avez créé précédemment en utilisant le n° d’ordre de travail que vous aviez noté. Dans les options qui s’affichent, sélectionnez **Rechercher la disponibilité**. 
 
-15. L’**Assistant Planifier** s’ouvre alors. 
+20. L’**Assistant Planifier** s’ouvre alors. 
 
-16. Des options de planification de l’élément devraient vous être proposées. Sélectionnez l’enregistrement Bob Kozak.
+21. Des options de planification de l’élément devraient vous être proposées. Sélectionnez l’enregistrement Aidan Knaggs.
 
-17. Dans la fenêtre **Créer une réservation de ressource**, définissez **Heure de début** sur le début de l’heure suivante.
+22. Dans la fenêtre **Créer une réservation de ressource**, définissez **Heure de début** sur le début de l’heure suivante.
 
-18. Définissez **Heure de fin** sur les **2,5 heures** suivantes. 
+23. Définissez **Heure de fin** sur les **2,5 heures** suivantes. 
 
-19. Sélectionnez le bouton **Réserver et quitter** pour réserver l’élément et quitter la fenêtre de planification. 
+24. Sélectionnez le bouton **Réserver et quitter** pour réserver l’élément et quitter la fenêtre de planification. 
 
-20. Il peut arriver que vous deviez replanifier un ordre de travail en raison de conflits entre techniciens ou autres facteurs. Les répartiteurs peuvent facilement effectuer cette tâche à l’aide du tableau de planification. 
+25. Il peut arriver que vous deviez replanifier un ordre de travail en raison de conflits entre techniciens ou autres facteurs. Les répartiteurs peuvent facilement effectuer cette tâche à l’aide du tableau de planification. 
 
-21. Cliquez sur la zone Rechercher des ressources dans le tableau de planification (à droite au-dessus de la colonne du nom de la ressource), entrez Ryan et localisez l’ordre de travail planifié pour Ryan à une heure ultérieure du jour. 
+26. Sélectionnez la zone Rechercher des ressources dans le tableau de planification (à droite au-dessus de la colonne du nom de la ressource), entrez Abbie et localisez l’ordre de travail planifié pour Abbie à une heure ultérieure du jour. 
 
-22. Cliquez avec le bouton droit sur l’ordre de travail et dans le menu qui apparaît, sélectionnez **Substituer la ressource** et sélectionnez **Rechercher une substitution**.
+27. Cliquez avec le bouton droit sur l’ordre de travail et dans le menu qui apparaît, sélectionnez **Substituer la ressource** et sélectionnez **Rechercher une substitution****.**
 

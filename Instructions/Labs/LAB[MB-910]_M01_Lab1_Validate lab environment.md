@@ -1,4 +1,4 @@
----
+﻿---
 lab:
     title: 'Labo 1.1 : Vérifier l’environnement de labo'
     module: 'Module 1 : Découvrir les principes fondamentaux de Dynamics 365 Marketing'
@@ -34,10 +34,10 @@ Exercice 1 - Accéder à l’application Dynamics 365
 
 ### Tâche 2 - Accéder à l’application Dynamics 365
 
-1.  Développez le bouton de la grille, en haut à gauche de l’écran, directement à gauche du **Centre d’administration Power Platform.** Sélectionnez **Dynamics 365.**
+1.  Développez le bouton domino Lanceur d’applications, en haut à gauche de l’écran, directement à gauche du **Centre d’administration Power Platform. Sélectionnez l’application Dynamics 365 **Marketing** pour la lancer.
 
-2.  Sélectionnez le bouton **Modifier**. Ouvrez l’environnement Contoso dans le **Centre d’administration Power Platform.**
+2.  Examinez le volet de navigation sur le côté gauche. Le bouton en bas du volet vous permet de passer d’une zone à l’autre. Vous consultez actuellement la zone **Marketing**. 
 
-4. Dans la liste des applications Dynamics 365 disponibles, sélectionnez **Marketing**.
+3.  Sélectionnez **Marketing** en bas du volet de navigation et sélectionnez la zone **Événements**. Examinez la zone **Événements** dans le volet de navigation.  
 
-5. Consacrez quelques minutes à la découverte de l’application.
+4. Consacrez quelques minutes à l’exploration de l’application, puis revenez à la zone **Marketing**.
