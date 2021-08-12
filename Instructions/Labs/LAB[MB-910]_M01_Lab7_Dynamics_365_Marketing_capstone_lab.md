@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'Labo 1.7 : Laboratoire Capstone Dynamics 365 Marketing'
     module: 'Module 1 : Découvrir les principes fondamentaux de Dynamics 365 Marketing'

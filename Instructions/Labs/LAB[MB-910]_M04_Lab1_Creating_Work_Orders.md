@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'Labo 4.1 : Créer des ordres de travail dans Dynamics 365 Field Service'
     module: 'Module 4 : Découvrir les principes fondamentaux de Dynamics 365 Field Service'

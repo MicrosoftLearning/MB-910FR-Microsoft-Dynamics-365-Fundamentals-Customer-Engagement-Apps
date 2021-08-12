@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'Labo 2.3 : Laboratoire Capstone Dynamics 365 Sales'
     module: 'Module 2 : Découvrir les principes fondamentaux de Dynamics 365 Sales'

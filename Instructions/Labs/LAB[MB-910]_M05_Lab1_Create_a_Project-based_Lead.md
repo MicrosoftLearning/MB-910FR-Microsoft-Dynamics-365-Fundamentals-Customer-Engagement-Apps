@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'Labo 5.1 : Créer un prospect basé sur un projet'
     module: 'Module 5 : Découvrir les principes fondamentaux de Dynamics 365 Project Operations'

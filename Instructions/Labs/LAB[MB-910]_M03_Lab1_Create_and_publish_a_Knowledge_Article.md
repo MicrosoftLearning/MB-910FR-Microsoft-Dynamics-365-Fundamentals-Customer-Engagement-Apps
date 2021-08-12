@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'Labo 3.1 : Créer et publier un article de Base de connaissances dans Dynamics 365 Customer Service'
     module: 'Module 3 : Découvrir les principes fondamentaux de Dynamics 365 Customer Service'

@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'Lab 2.1 : Créer et gérer un prospect dans Dynamics 365 Sales'
     module: 'Module 2 : Découvrir les principes fondamentaux de Dynamics 365 Sales'

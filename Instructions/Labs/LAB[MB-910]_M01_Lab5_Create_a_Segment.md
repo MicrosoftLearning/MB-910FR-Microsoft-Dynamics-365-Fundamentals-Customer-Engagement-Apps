@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'Labo 1.5 : Créer un segment dans Dynamics 365 Marketing'
     module: 'Module 1 : Découvrir les principes fondamentaux de Dynamics 365 Marketing'

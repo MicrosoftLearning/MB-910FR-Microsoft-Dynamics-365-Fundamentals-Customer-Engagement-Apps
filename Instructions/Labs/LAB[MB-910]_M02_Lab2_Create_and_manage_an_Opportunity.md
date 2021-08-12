@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'Labo 2.2 : Créer et gérer une opportunité dans Dynamics 365 Sales'
     module: 'Module 2 : Découvrir les principes fondamentaux de Dynamics 365 Sales'

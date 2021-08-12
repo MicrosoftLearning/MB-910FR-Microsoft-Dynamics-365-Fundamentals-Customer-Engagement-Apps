@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'Labo 1.2 : Utilisation des applications Customer Engagement'
     module: 'Module 1 : Découvrir les principes fondamentaux de Dynamics 365 Marketing'

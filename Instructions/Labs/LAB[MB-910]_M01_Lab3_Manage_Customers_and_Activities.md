@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'Labo 1.3 : Gérer les clients et les activités'
     module: 'Module 1 : Découvrir les principes fondamentaux de Dynamics 365 Marketing'

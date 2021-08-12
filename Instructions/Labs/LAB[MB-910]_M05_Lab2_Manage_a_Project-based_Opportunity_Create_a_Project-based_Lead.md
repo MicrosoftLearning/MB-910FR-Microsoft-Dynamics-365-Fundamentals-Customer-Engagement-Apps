@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'Labo 5.2 : Gérer une opportunité basée sur un projet'
     module: 'Module 5 : Découvrir les principes fondamentaux de Dynamics 365 Project Operations'

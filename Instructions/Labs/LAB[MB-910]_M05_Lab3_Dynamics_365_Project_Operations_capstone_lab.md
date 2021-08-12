@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'Labo 5.3 : Laboratoire Capstone Dynamics 365 Project Operations'
     module: 'Module 5 : Découvrir les principes fondamentaux de Dynamics 365 Project Operations'

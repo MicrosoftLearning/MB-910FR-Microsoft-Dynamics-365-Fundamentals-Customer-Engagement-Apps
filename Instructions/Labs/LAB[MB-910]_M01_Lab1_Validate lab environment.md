@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'Labo 1.1 : Vérifier l’environnement de labo'
     module: 'Module 1 : Découvrir les principes fondamentaux de Dynamics 365 Marketing'
