@@ -15,9 +15,11 @@ Durant cet exercice, vous constaterez que les parcours des clients sont un compo
 
 ## Configuration du labo
 
-  - **Durée estimée**: 10 minutes
+  - **Durée estimée** : 10 minutes
 
 ## Instructions
+
+**Remarque :** Les courriers électroniques de marketing ne peuvent pas être créés ou modifiés dans Internet Explorer. Nous vous recommandons d’utiliser Microsoft Edge ou Google Chrome pour effectuer cet exercice.
 
 **Remarque :** Avant de créer un parcours du client, nous devons vérifier que nous avons une adresse e-mail active pouvant être ajoutée au parcours du client. 
 
@@ -25,7 +27,7 @@ Durant cet exercice, vous constaterez que les parcours des clients sont un compo
 
 2. Dans le volet de navigation de gauche, sélectionnez **Courrier électronique de marketing** sous le groupe Exécution marketing
 
-3. Localisez et ouvrez le courrier électronique de marketing **Introduction to Chairs**. 
+3. Sélectionnez la colonne **Créé le** et sélectionnez **Trier du plus ancien au plus récent**. Localisez et ouvrez le courrier électronique de marketing **Introduction to Chairs**. 
 
 4. Dans la **Barre de commandes** en haut, sélectionnez le bouton **Mise en service**. 
 
@@ -35,21 +37,21 @@ Durant cet exercice, vous constaterez que les parcours des clients sont un compo
 
 7. La page **Nouveau parcours du client** s’ouvre et la boîte de dialogue **Sélectionnez un modèle de parcours du client** s’affiche. Sélectionnez **Ignorer** pour démarrer la création du parcours à partir de zéro.
 
-8. Sélectionnez **Définir l’audience** (ou sinon, sélectionnez **+**). Sélectionnez le segment Fargo Customers que vous avez créé dans l’exercice précédent. Le premier titre est alors rempli avec le nom du segment et le volet **Audience** affiche les propriétés du segment.
+8. Sélectionnez **Définir l’audience** (ou sinon, sélectionnez **+**). Sélectionnez le segment Chicago Customers que vous avez créé dans l’exercice précédent. Le premier titre est alors rempli avec le nom du segment et le volet **Audience** affiche les propriétés du segment.
 
-9. Sélectionnez **+** sur le canevas, puis sélectionnez **Envoyer un courrier électronique** dans le menu contextuel.
+9. Sélectionnez le couloir **+** dans Chicago Contacts, puis sélectionnez **Envoyer un e-mail** dans le menu contextuel.
 
 10. Sélectionnez le courrier électronique **Introduction to Chairs** que vous avez activé précédemment. 
 
 11. Sélectionnez l’onglet Général qui se trouve vers le haut de l’enregistrement Parcours du client. Entrez les informations suivantes dans l’onglet **Général** :
 
-	- **Nom**: Parcours du client Fargo
+	- **Nom** : Parcours du client Chicago
 
-	- **Date et heure de début**: Entrez la date d’aujourd’hui
+	- **Date et heure de début** : Entrez la date d’aujourd’hui
 
-	- **Date et heure de fin**: Un mois à compter d’aujourd’hui
+	- **Date et heure de fin** : Un mois à compter d’aujourd’hui
 
-	- **Fuseau horaire**: Sélectionnez votre fuseau horaire local 
+	- **Fuseau horaire** : Sélectionnez votre fuseau horaire local 
 
 12. Dans la barre de commandes, sélectionnez **Enregistrer** pour enregistrer le travail que vous avez réalisé jusqu’à présent.
 

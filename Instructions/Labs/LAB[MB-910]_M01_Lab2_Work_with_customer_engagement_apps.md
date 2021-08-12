@@ -22,7 +22,7 @@ Au cours de cet exercice, vous allez constater qu’il est très facile d’acc�
 
 Dans cet exercice, vous allez vous familiariser avec les modalités d’accès aux différentes applications Dynamics 365 Customer Engagement en utilisant l’écran Page d’accueil Dynamics 365. 
 
-1. Dans un navigateur web, accédez à [**https://home.dynamics.com**](https://home.dynamics.com/). Toutes les applications auxquelles vous avez accès s’afficheront. 
+1. Dans un navigateur web, accédez à **[https://home.dynamics.com](https://home.dynamics.com/)** Toutes les applications auxquelles vous avez accès s’afficheront. 
 
 2. Pour réduire le nombre d’applications affichées, sélectionnez l’**icône de filtre** qui se trouve à côté du bouton Obtenir plus d’applications. 
 
@@ -30,13 +30,13 @@ Dans cet exercice, vous allez vous familiariser avec les modalités d’accès a
 
 4. Sélectionnez le symbole **X** en haut à droite de la **zone Filtre** pour la fermer. 
 
-5. Pour localiser une application spécifique, vous pouvez la rechercher en cliquant dans le champ **Rechercher mes applications** sur le côté gauche de l’écran. 
+5. Pour localiser une application spécifique, vous pouvez la rechercher en sélectionnant le champ **Rechercher mes applications** sur le côté gauche de l’écran. 
 
 6. Saisissez le texte **Centre des ventes** et sélectionnez l’application **Centre des ventes** pour l’ouvrir. 
 
 7. Lorsque vous êtes dans une application, vous pouvez travailler avec différentes zones selon les tâches à effectuer. Par exemple, l’application Centre des ventes contient différents paramètres administratifs que vous pouvez utiliser. 
 
-8. En bas à gauche de l’écran, sélectionnez le texte **Sales** dans la liste qui s’affiche, et sélectionnez **Paramètres de l’application**. Dans cette partie de l’application, vous pouvez apporter des modifications administratives. 
+8. Sur le côté inférieur gauche du volet de navigation, sélectionnez **Ventes** et passez à la zone **Paramètres de l’application**. Explorez les paramètres de l’application.
 
 9. Sélectionnez à nouveau le sélecteur de zone et remodifiez-le de **Paramètres de l’application** à **Sales**.
 

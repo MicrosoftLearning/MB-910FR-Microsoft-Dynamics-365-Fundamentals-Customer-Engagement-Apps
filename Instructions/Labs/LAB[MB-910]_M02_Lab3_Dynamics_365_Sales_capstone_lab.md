@@ -63,7 +63,7 @@ Vous avez récemment reçu un appel d’une personne appelée Piper Smith. Une s
 
 ## Configuration du labo
 
-  - **Durée estimée**: 30 minutes
+  - **Durée estimée** : 30 minutes
 
 ## Instructions
   
@@ -98,29 +98,22 @@ Vous avez récemment reçu un appel d’une personne appelée Piper Smith. Une s
 
 	- **E-mail :** piper@sample.com
 
-	- **Rue 1 :** 1989 191<sup data-htmlnode="">st</sup> Ave N
-
-	- **Ville :** Seattle
-
-	- **État/province :** WA
-
-	- **Code postal :** 98001 
 
 9. Cliquez sur le bouton **Enregistrer** dans la barre de commandes pour enregistrer le nouveau prospect et laissez-le ouvert.
 
-10. Remarquez le flux des processus d’entreprise **prospect-opportunité** en haut de l’enregistrement. Cliquez sur la **phase de qualification** pour la sélectionner. Renseignez la phase comme suit :
+10. Remarquez le flux des processus d’entreprise **prospect-opportunité** en haut de l’enregistrement. Cliquez sur la **Phase de qualification** pour la sélectionner. Renseignez la phase comme suit :
 
 	- **Période d’achat :** Ce trimestre
 
-	- **Budget estimé :** 10 000 
+	- **Budget estimé :** 10000 
 
 	- **Processus d’achat :** Individuel
 
 	- **Identifier le décisionnaire :** Terminé
 
-11. Cliquez sur le symbole **X** dans la fenêtre de la phase pour la fermer. 
+11. Cliquez sur le symbole **X** dans la fenêtre de la phase pour fermer la fenêtre. 
 
-12. Accédez à la **Chronologie** des enregistrements au milieu de l’écran et cliquez sur l’**icône du signe Plus** pour ajouter une nouvelle activité. 
+12. Accédez à la **Chronologie** des enregistrements au milieu de l’écran et sélectionnez l’**icône du signe Plus** pour ajouter une nouvelle activité. 
 
 13. Dans le menu qui apparaît, sélectionnez **Appel téléphonique**.
 
@@ -134,7 +127,7 @@ Vous avez récemment reçu un appel d’une personne appelée Piper Smith. Une s
 
 	- **Description :** Après les événements qui se sont produits dans son quartier, elle cherche à acheter un système de sécurité. 
 
-15. Cliquez sur le bouton **Enregistrer et fermer**.
+15. Sélectionnez le bouton **Enregistrer et fermer**.
 
 16. Vous remarquerez que l’activité **Intéressé par un équipement de sécurité pour la maison** s’affiche maintenant dans la **Chronologie** des enregistrements. Pointez sur l’activité et sélectionnez l’activité de fermeture **Icône de coche** pour marquer l’appel téléphonique comme terminé. 
 
@@ -154,9 +147,9 @@ Après une visite chez Piper, vous estimez qu’elle manifeste suffisamment d’
 
 2. Lorsque le système qualifie le prospect, un enregistrement d’opportunité est créé et le processus d’entreprise avance à la phase **Développer**. Sélectionnez la phase **Qualifier** pour afficher l’enregistrement de prospect d’origine. 
 
-3. Sélectionnez la phase **Développer** pour revenir à l’opportunité.
+3. Sélectionnez la phase **Qualifier** pour revenir à l’opportunité.
 
-4. Cliquez sur le bouton **Enregistrer et fermer** pour fermer l’enregistrement de prospect créé. 
+4. Cliquez sur le bouton **Enregistrer et fermer** pour fermer l’enregistrement d’opportunité créé. 
 
  
 
@@ -170,15 +163,15 @@ Maintenant que nous avons réussi à qualifier le prospect comme opportunité, i
 
 1. Dans le volet de navigation de gauche, sélectionnez **Opportunités**. 
 
-2. Sélectionnez la flèche déroulante à côté de **Mes opportunités ouvertes** et dans le menu qui s’affiche, sélectionnez **Opportunités ouvertes**.
+2. Sélectionnez la flèche déroulante à côté de **Mes opportunités ouvertes** et dans le menu qui s’affiche, sélectionnez **Toutes les opportunités**.
 
-3. Dans la Barre de commandes, sélectionnez Afficher un graphique. Notez que le graphique des clients principaux qui s’affiche est basé sur la table des opportunités. 
+3. Dans la Barre de commandes, sélectionnez Afficher un graphique. Notez que le graphique des **clients principaux** qui s’affiche est basé sur la table des opportunités. 
 
-4. Sélectionnez la flèche déroulante à côté des clients principaux, puis dans le menu qui s’affiche, sélectionnez **Pipeline des ventes**.
+4. Sélectionnez la flèche déroulante à côté des **clients principaux**, puis dans le menu qui s’affiche, sélectionnez **Pipeline des ventes**.
 
 5. Sélectionnez la partie Qualifier de la synthèse. Notez que la liste des Opportunités change pour afficher les opportunités ayant atteint la phase de qualification. 
 
-6. Cliquez en tout point de l’espace blanc pour afficher à nouveau toutes les opportunités. 
+6. Sélectionnez un point de l’espace blanc pour afficher à nouveau toutes les opportunités ouvertes. 
 
 7. Sélectionnez la flèche déroulante à côté de **Opportunités ouvertes** et dans le menu qui s’affiche, sélectionnez **Mes opportunités ouvertes**. **Intéressé par un équipement de sécurité - Vos initiales** sera sans doute le premier élément qui apparaît, et le graphique devrait le refléter aussi. 
 
@@ -194,7 +187,7 @@ Maintenant que nous avons réussi à qualifier le prospect comme opportunité, i
 
 	- **Chiffre d’affaires estimé :** 12 500,00
 
-12. Dans la **Chronologie des enregistrements** au milieu de l’écran, cliquez sur l’**icône de signe plus** pour ajouter une nouvelle activité. 
+12. Accédez à la **Chronologie des enregistrements** au milieu de l’écran et sélectionnez l’**icône du signe Plus** pour ajouter une nouvelle activité. 
 
 13. Dans le menu qui s’affiche, sélectionnez **Rendez-vous**.
 
@@ -204,21 +197,21 @@ Maintenant que nous avons réussi à qualifier le prospect comme opportunité, i
 
 	- **Lieu :** En ligne
 
-	- **Heure de début**: Demain à 10h00
+	- **Heure de début** : Demain à 10h00
 
-	- **Heure de fin :** Demain à 10h30
+	- **Heure de fin :** Demain à 10:30
 
 15. Dans la barre de commandes, sélectionnez **Enregistrer et fermer**.
 
 16. Dans le flux des processus d’entreprise prospect-opportunité, sélectionnez la phase **Développer**. Notez que vous devez identifier les parties prenantes et les concurrents.
 
-17. Cliquez sur le symbole **X** dans la fenêtre de la phase pour la fermer et pouvoir continuer à travailler. 
+17. Sélectionnez le symbole **X** dans la fenêtre de la phase pour la fermer et pouvoir continuer à travailler. 
 
 18. Dans la sous-grille **Parties prenantes**, notez que **Piper** est déjà définie comme partie prenante. 
 
 19. Dans la sous-grille Équipe de vente, sélectionnez les **points de suspension verticaux**. Dans le menu qui s’affiche, sélectionnez **Nouvelle connexion**. 
 
-20. Dans le champ **Recherche**, entrez le texte **Système** et sélectionnez l’enregistrement **Administrateur système**. Une fois que vous avez terminé, cliquez sur le bouton **Ajouter**. L’administrateur système devrait maintenant apparaître dans l’équipe de vente. Si ce n’est pas le cas, cliquez sur le bouton **Actualiser** dans la barre de commandes. 
+20. Dans le champ **Recherche**, entrez le texte **Système** et sélectionnez l’enregistrement **Administrateur système**. Une fois que vous avez terminé, sélectionnez le bouton **Ajouter**. L’administrateur système devrait maintenant apparaître dans l’équipe de vente. Si ce n’est pas le cas, cliquez sur le bouton **Actualiser** dans la barre de commandes. 
 
 21. Dans la sous-grille Concurrents, sélectionnez les **points de suspension verticaux**. Dans le menu qui s’affiche, sélectionnez **Ajouter un concurrent existant**. 
 
@@ -230,17 +223,17 @@ Maintenant que nous avons réussi à qualifier le prospect comme opportunité, i
 
 25. Vérifiez que l’enregistrement Coho Security que vous venez de créer est sélectionné, puis sélectionnez le bouton **Ajouter**. 
 
-26. Cliquez pour sélectionner la phase **Développer** dans le flux des processus d’entreprise **prospect-opportunité**, puis définissez les deux étapes **Identifier les parties prenantes** et **Identifier les concurrents** sur **Terminé**. 
+26. Sélectionnez la phase **Développer** dans le flux des processus d’entreprise **prospect-opportunité**, puis définissez les deux étapes **Identifier les parties prenantes** et **Identifier les concurrents** sur **Terminé**. 
 
-27. Cliquez sur le bouton **Phase suivante** pour passer à la phase **Proposer**.
+27. Sélectionnez le bouton **Nouvelle phase** pour passer à la phase **Proposer**.
 
 28. Dans la phase **Proposer**, marquez **Identifier l’équipe de vente** comme **Terminé**.
 
-29. Cliquez sur le symbole **X** dans la phase Proposer pour fermer la fenêtre de phase. 
+29. Sélectionnez le symbole **X** dans la phase Proposer pour fermer la fenêtre de phase. 
 
 30. Dans l’enregistrement de l’opportunité, sélectionnez l’onglet **Devis**. 
 
-31. Dans la sous-grille Devis, cliquez sur le bouton **Nouveau devis**.
+31. Dans la sous-grille Devis, sélectionnez le bouton **Nouveau devis**.
 
  
 
@@ -252,31 +245,30 @@ Maintenant que nous avons réussi à qualifier le prospect comme opportunité, i
 
 Maintenant que vous avez un devis associé, vous allez préparer le devis à présenter à un client. Dans des circonstances habituelles, nous ajouterions probablement les produits à l’enregistrement du devis avant qu’il soit transmis à un client. Étant donné que nous travaillons dans des environnements partagés, nous allons ignorer l’ajout des lignes de devis et nous concentrer sur la remise du devis. 
 
-1. Dans la **Barre de commandes**, sélectionnez le bouton **Activer un devis** pour activer le devis. 
 
-2. Vous devez maintenant sélectionner une liste de prix à joindre à l’opportunité.  Sous **Tarifs** dans le volet gauche, sélectionnez l’icône Recherche puis sélectionnez **Tarifs par défaut** dans les options.
+1. Vous devez maintenant sélectionner une liste de prix à joindre à l’opportunité.  Sous **Tarifs** dans le volet gauche, sélectionnez l’icône Recherche puis sélectionnez **Office 365 USA (exemple)** dans les options. Dans la **Barre de commandes**, sélectionnez le bouton **Activer un devis** pour activer le devis. 
 
-3. Maintenant que le devis a été créé, mettons à jour l’enregistrement de l’opportunité de manière à refléter les nouvelles données. Dans l’enregistrement du devis, sélectionnez l’opportunité **Intéressé par un équipement de sécurité** - **« Votre nom »** dans le champ **Opportunité** sous la section **Informations de vente**. L’enregistrement du devis devrait s’ouvrir sur votre écran. 
+2. Maintenant que le devis a été créé, mettons à jour l’enregistrement de l’opportunité de manière à refléter les nouvelles données. Dans l’enregistrement du devis, sélectionnez l’opportunité **Intéressé par un équipement de sécurité** - **« Votre nom »** dans le champ **Opportunité** sous la section **Informations de vente**. L’enregistrement du devis devrait s’ouvrir sur votre écran. 
 
-4. Dans l’enregistrement du devis, sélectionnez la phase **Proposer**. 
+3. Dans l’enregistrement du devis, sélectionnez la phase **Proposer**. 
 
-5. Marquez les étapes **Développer la proposition**, **Effectuer une révision interne** et **Présenter la proposition** comme étant **terminées**, et cliquez sur le bouton **Phase suivante** pour passer à la phase **Fermer**. 
+4. Marquez les étapes **Développer la proposition**, **Effectuer une révision interne** et **Présenter la proposition** comme étant **terminées**, et sélectionnez le bouton **Phase suivante** pour passer à la phase **Fermer**. 
 
-6. Dans la phase **Fermer**, marquez les étapes **Effectuer la proposition finale**, **Présenter la proposition finale**, **Envoyer une carte de remerciement** et **Compte rendu du fichier** comme étant **terminées**. 
+5. Dans la phase **Fermer**, marquez les étapes **Effectuer la proposition finale**, **Présenter la proposition finale**, **Envoyer une carte de remerciement** et **Compte rendu du fichier** comme étant **terminées**. 
 
-7. Définissez **Confirmer la date de décision** sur **la date d’aujourd’hui**. 
+6. Définissez **Confirmer la date de décision** sur **la date d’aujourd’hui**. 
 
-8. Cliquez sur le bouton **Terminer**. 
+7. Sélectionnez le bouton **Terminer**. 
 
-9. Cliquez sur le symbole **X** dans la fenêtre de la phase de clôture pour fermer la fenêtre. 
+8. Cliquez sur le symbole **X** dans la fenêtre de la phase de clôture pour fermer la fenêtre. 
 
-10. Sélectionnez l’onglet **Devis**. 
+9. Sélectionnez l’onglet **Devis**. 
 
-11. Ouvrez le devis **Intéressé par un équipement de sécurité - Vos initiales**. 
+10. Ouvrez le devis **Intéressé par un équipement de sécurité - Vos initiales**. 
 
-12. Dans la **Barre de commandes**, sélectionnez le bouton **Créer une commande**.
+11. Dans la **Barre de commandes**, sélectionnez le bouton **Créer une commande**.
 
-13. Dans la fenêtre Créer une commande, renseignez les champs suivants :
+12. Dans la fenêtre Créer une commande, renseignez les champs suivants :
 
 	- **Raison du statut :** Conclu
 
@@ -286,9 +278,9 @@ Maintenant que vous avez un devis associé, vous allez préparer le devis à pr�
 
 	- **Calculer le revenu réel à partir des devis :** Non
 
-	- **Revenu réel :** 12 500 $
+	- **Revenu réel :** 12 500$
 
-14. Sélectionnez le bouton **OK** 
+13. Sélectionnez le bouton **OK** 
 
 Le système crée une nouvelle commande client associée à l’élément. Il ferme en outre à la fois l’enregistrement du devis et l’enregistrement d’opportunité associée. Une fois que tout est terminé, la commande s’ouvre sur votre écran. Laissez la commande ouverte. 
 
@@ -312,4 +304,4 @@ Maintenant que vous avez généré une commande client, nous allons fermer la co
 
 4. Dans la **Barre de commandes** de la commande, cliquez sur le bouton **Créer la facture**. 
 
-5. Une fois que l’enregistrement de facture est ouvert, sélectionnez **Facture réglée**.
+5. Dans la **Barre de commandes**, sélectionnez le bouton **Facture payée**. Sélectionnez OK.

@@ -11,7 +11,7 @@ Module 4 : Découvrir les principes fondamentaux de Dynamics 365 Field Servi
 
 ## Configuration du labo
 
-  - **Durée estimée**: 10 minutes
+  - **Durée estimée** : 10 minutes
 
 ## Instructions
 
@@ -21,17 +21,19 @@ Module 4 : Découvrir les principes fondamentaux de Dynamics 365 Field Servi
 
 3. Renseignez les détails de l’ordre de travail comme suit :
 
-	- **Compte de service :** Adventure Works
+	- **Compte de service :** Adventure Works Cycles
 
-	- **Type d’ordre de travail** : Service
+	- **Type d’ordre de travail** : Service (créer un nouveau)
 
-	- **Tarifs :** Tarifs par défaut
+	- **Tarifs :** CRM Service USA (exemple)
 
 	- **Imposable :** Non
 
+4. Enregistrez l’ordre de travail.
+
 4. Sélectionnez l’onglet **Paramètres**.
 
-5. Définissez le champ **Secteur de vente du service** sur **WA**.
+5. Définissez le champ **Secteur de vente du service** sur **WA**. (créer un nouveau)
 
 6. Sous **Préférences**, configurez les préférences temporelles comme suit :
 

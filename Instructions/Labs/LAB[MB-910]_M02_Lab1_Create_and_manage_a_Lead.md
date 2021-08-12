@@ -16,7 +16,7 @@ Au cours de cet exercice, vous allez capturer un prospect pour Suzanne Burke. El
 
 ## Configuration du labo
 
-  - **Durée estimée**: 15 minutes
+  - **Durée estimée** : 15 minutes
 
 ## Instructions
 
@@ -52,11 +52,11 @@ Au cours de cet exercice, vous allez capturer un prospect pour Suzanne Burke. El
 
 5. Cliquez sur le bouton **Enregistrer** dans la barre de commandes pour enregistrer le nouveau prospect et laissez-le ouvert.
 
-6. Remarquez le flux des processus d’entreprise **prospect-opportunité** en haut de l’enregistrement. Cliquez sur la **phase de qualification** pour la sélectionner. Renseignez la phase comme suit :
+6. Remarquez le flux des processus d’entreprise **prospect-opportunité** en haut de l’enregistrement. Cliquez sur la **Phase de qualification** pour la sélectionner. Renseignez la phase comme suit :
 
 	- **Période d’achat :** Ce trimestre
 
-	- **Budget estimé :** 25 000 
+	- **Budget estimé :** 25000 
 
 	- **Processus d’achat :** Individuel
 
@@ -77,5 +77,3 @@ Au cours de cet exercice, vous allez capturer un prospect pour Suzanne Burke. El
 13. Vous allez ensuite qualifier l’enregistrement de prospect. Un enregistrement d’opportunité associé est créé et le système passe à la phase suivante du processus de vente prospect-opportunité. Dans la **Barre de commandes**, cliquez sur le bouton **Qualifier**. 
 
 14. Lorsque le système qualifie le prospect, un enregistrement d’opportunité est créé et le processus d’entreprise avance à la phase **Développer**. Sélectionnez la phase **Qualifier** pour afficher l’enregistrement de prospect d’origine. 
-
-15. Sélectionnez la phase **Développer** pour revenir à l’opportunité.

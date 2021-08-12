@@ -11,7 +11,7 @@ Module 3 : Découvrir les principes fondamentaux de Dynamics 365 Customer Se
 
 ## Configuration du labo
 
-  - **Durée estimée**: 10 minutes
+  - **Durée estimée** : 10 minutes
 
 ## Instructions
 
@@ -19,21 +19,21 @@ Module 3 : Découvrir les principes fondamentaux de Dynamics 365 Customer Se
 
 2. Dans le volet de navigation de gauche, sélectionnez **Incidents**. 
 
-3. Dans la **Barre de commandes**, sélectionnez le bouton **Nouveau** pour créer un nouvel enregistrement d’incident.
+3. Dans la **Barre de commandes**, sélectionnez le bouton **Nouvel incident** pour créer un nouvel enregistrement d’incident.
 
 4. Complétez votre nouvel enregistrement d’incident comme suit :
 
 	- **Titre de l’incident :** Article arrivé cassé - Vos initiales
 
-	- **Client :** Alpine Ski House (exemple)
+	- **Client :** Alpine Ski House
 
 	- **Origine :** Téléphone
 
 5. Sélectionnez le bouton **Enregistrer** pour enregistrer l’enregistrement et laissez-le ouvert. 
 
-6. Dans **Processus téléphone-incident**, sélectionnez la phase **Identifier** et définissez le champ **Trouver un contact** sur **Dwayne Elijah**. 
+6. Dans **Processus téléphone-incident**, sélectionnez la phase **Identifier** et définissez le champ **Trouver un contact** sur **Alfonso Albritton**. 
 
-7. Cliquez sur le symbole **X** dans la fenêtre de la phase **Identifier** pour la fermer et pouvoir continuer à travailler. 
+7. Sélectionnez le symbole **X** dans la fenêtre de la phase **Identifier** pour la fermer et pouvoir continuer à travailler. 
 
 8. À l’aide de la **Chronologie des enregistrements**, sélectionnez l’**icône de signe Plus** pour créer une nouvelle activité. 
 
@@ -41,13 +41,13 @@ Module 3 : Découvrir les principes fondamentaux de Dynamics 365 Customer Se
 
 10. Définissez le champ **Objet** sur **Retourner l’appel de Patrick - Vos initiales** et laissez les autres champs tels quels. 
 
-11. Cliquez sur le bouton **Enregistrer et fermer**. 
+11. Sélectionnez le bouton **Enregistrer et fermer**. 
 
 12. Dans **Processus téléphone-incident**, sélectionnez la phase **Identifier**.
 
-13. Cliquez sur le bouton **Phase suivante** pour passer à la phase **Rechercher**. 
+13. Appuyez sur le bouton **Phase suivante** pour passer à la phase **Rechercher**. 
 
-14. Cliquez sur le symbole **X** dans la fenêtre de la phase **Rechercher** pour la fermer et pouvoir continuer à travailler. 
+14. Sélectionnez le symbole **X** dans la fenêtre de la phase **Rechercher** pour la fermer et pouvoir continuer à travailler. 
 
 15. Sur le côté droit de l’écran des incidents, localisez et sélectionnez l’icône représentant un livre **Base de connaissances**. (Elle se trouve directement sous l’icône représentant une clé anglaise).
 

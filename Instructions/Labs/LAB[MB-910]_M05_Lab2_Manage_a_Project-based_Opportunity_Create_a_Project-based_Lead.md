@@ -27,7 +27,7 @@ En interne, le focus est axé sur deux domaines principaux :
 
 - **Clients Entreprise :** Les vendeurs Entreprise se concentrent sur les clients qui recherchent des solutions d’entreprise plus spécialisées et personnalisées. Les ventes Entreprise s’étendent généralement sur plusieurs lieux et requièrent souvent plusieurs ressources pour mener à bien le projet. Ces cycles de vente sont généralement plus longs et comportent davantage de parties mobiles. 
 
-Il est important que tous les vendeurs de la société ABC disposent des outils, ressources et conseils nécessaires, quel que soit leur domaine de focus, lorsqu’ils proposent leurs produits aux clients. 
+Il est important que tous les vendeurs de la société ABC disposent des outils, ressources et conseils nécessaires, quel que soit leur domaine de focus, lorsqu’ils proposent leurs produits aux clients.  
 
 **Installation système :**
 
@@ -76,17 +76,17 @@ Maintenant que vous avez créé avec succès une opportunité de projet basée s
 
 5. Dans le flux des processus d’entreprise prospect-opportunité, sélectionnez la phase **Développer**. Notez que vous devez identifier les parties prenantes et les concurrents.
 
-6. Cliquez sur le symbole **X** dans la fenêtre de la phase pour la fermer et pouvoir continuer à travailler. 
+6. Sélectionnez le symbole **X** dans la fenêtre de la phase pour la fermer et pouvoir continuer à travailler. 
 
 7. Dans la sous-grille **Parties prenantes**, notez que **Jean** est déjà défini comme partie prenante. 
 
 8. Dans la sous-grille Équipe de vente, sélectionnez **Nouvelle connexion**. (Si vous ne voyez pas le bouton **Nouvelle connexion**, sélectionnez les **points de suspension verticaux**, et dans le menu qui s’affiche, sélectionnez **Nouvelle connexion**.) 
 
-9. Dans le champ **Recherche**, entrez le texte **System** et sélectionnez l’**enregistrement d’utilisateur que votre instructeur vous a fourni**. Une fois que vous avez terminé, cliquez sur le bouton **Ajouter**. L’administrateur système devrait maintenant apparaître dans l’équipe de vente. Si ce n’est pas le cas, cliquez sur le bouton **Actualiser** dans la barre de commandes. 
+9. Dans le champ **Recherche**, entrez le texte **Système** et sélectionnez **Administrateur système**. Une fois que vous avez terminé, sélectionnez le bouton **Ajouter**. L’administrateur système devrait maintenant apparaître dans l’équipe de vente. Si ce n’est pas le cas, cliquez sur le bouton **Actualiser** dans la barre de commandes. 
 
 10. Dans la sous-grille Concurrents, sélectionnez les **points de suspension verticaux**. Dans le menu qui s’affiche, sélectionnez **Ajouter un concurrent existant**. 
 
-11. Recherchez et sélectionnez **Coho Security**. (Si Coho Security n’existe pas, sélectionnez **Nouvel enregistrement**, puis sélectionnez **Concurrents** sinon passez à l’étape 15.)  
+11. Recherchez et sélectionnez **Coho Security**. (Si Coho Security n’existe pas, sélectionnez **Nouvel enregistrement**, puis sélectionnez **Concurrents** sinon passez à l’étape 15**.**)  
 
 12. Dans l’écran Création rapide : **Concurrent**, définissez le champ **Nom** sur **Coho Security - « Vos initiales »**.
 
@@ -94,13 +94,13 @@ Maintenant que vous avez créé avec succès une opportunité de projet basée s
 
 14. Sélectionnez l’enregistrement Coho Security que vous venez de créer dans un exercice précédent, puis sélectionnez le bouton **Ajouter**. 
 
-15. Cliquez pour sélectionner la phase **Développer** dans le flux des processus d’entreprise **prospect-opportunité**, puis définissez les deux étapes **Identifier les parties prenantes** et **Identifier les concurrents** sur **Terminé**. 
+15. Sélectionnez la phase **Développer** dans le flux des processus d’entreprise **prospect-opportunité**, puis définissez les deux étapes **Identifier les parties prenantes** et **Identifier les concurrents** sur **Terminé**. 
 
-16. Cliquez sur le bouton **Phase suivante** pour passer à la phase **Proposer**.
+16. Sélectionnez le bouton **Nouvelle phase** pour passer à la phase **Proposer**.
 
 17. Dans la phase **Proposer**, marquez **Identifier l’équipe de vente** comme **Terminé**.
 
-18. Cliquez sur le symbole **X** dans la phase Proposer pour fermer la fenêtre de la phase. 
+18. Sélectionnez le symbole **X** dans la phase Proposer pour fermer la fenêtre de phase. 
 
 19. Dans l’enregistrement de l’opportunité, sélectionnez l’onglet **Lignes de l’opportunité**.
 
@@ -127,7 +127,7 @@ Configurez le nouvel élément Ligne d’opportunité comme suit :
 
 	- **Nom :** Implémentation système 
 
-	- **Budget du client :** 100 000 
+	- **Budget du client :** 100000 
 
 	- **Mode de facturation :** Temps et matériel
 

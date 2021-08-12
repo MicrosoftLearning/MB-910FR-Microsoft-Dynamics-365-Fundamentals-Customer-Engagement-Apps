@@ -61,13 +61,13 @@ Récemment, un client Entreprise, Active Transport, Inc., a contacté le support
 
 ## Configuration du labo
 
-  - **Durée estimée**: 45 minutes
+  - **Durée estimée** : 45 minutes
 
 ## Instructions
 
 ## Exercice 1 : Créer un incident et le transformer en un ordre de travail 
 
-### Tâche 1 : Créer un enregistrement d’incident
+### Tâche 1 : Créer un enregistrement d’incident
 
 1. Ouvrez l’application **Dynamics 365 Field Service** si elle n’est pas déjà ouverte. 
 
@@ -79,13 +79,15 @@ Récemment, un client Entreprise, Active Transport, Inc., a contacté le support
 
 	- **Titre de l’incident :** Caméra hors service
 
-	- **Client :** Active Transport Inc.
+	- **Client :** Société Best For You Organics
 
 	- **Origine :** Téléphone
 
+	Sauvegardez l’enregistrement.
+
 5. Sélectionnez l’onglet **Field Service**
 
-6. Définissez le champ **Type d’incident** sur **Caméra hors service**.
+6. Définissez le champ **Type d’incident** sur **Caméra hors service**. (créer un nouveau)
 
 7. Dans la **Barre de commandes**, sélectionnez le bouton **Enregistrer et fermer** pour enregistrer et quitter l’enregistrement d’incident. 
 
@@ -103,13 +105,17 @@ Nous reviendrons ultérieurement à l’enregistrement d’incident que vous ave
 
 3. Renseignez les détails de l’ordre de travail comme suit :
 
-	- **Compte de service :** Brakes & Gears 
+	- **Compte de service :** Déplacements de Margie
 
-	- **Tarifs :** Tarifs par défaut
+	- **Tarifs :** Office 365 US (exemple)
 
-	- **Type d’incident principal :** Ventilateur hors service
+	- **Type d’ordre de travail** : Service
 
 	- **Imposable :** Non
+
+	Sauvegardez l’enregistrement et attribuez-lui le type Incident principal
+
+	- **Type d’incident principal :** Ventilateur hors service (créer un nouveau)
 
 4. Notez le n° de l’ordre de travail pour être sûr de travailler ultérieurement sur l’ordre de travail correct. 
 
@@ -119,9 +125,9 @@ Nous reviendrons ultérieurement à l’enregistrement d’incident que vous ave
 
 7. Sous **Préférences**, configurez les préférences temporelles comme suit :
 
-	- **Temps écoulé depuis la promesse :** Aujourd’hui à 9h00
+	- **Temps écoulé depuis la promesse :** Aujourd’hui à 9h00
 
-	- **Temps jusqu’à la promesse :** Aujourd'hui à 11:00
+	- **Temps jusqu’à la promesse :** Aujourd’hui à 11:00
 
 8. Sélectionnez **Enregistrer et fermer** pour enregistrer vos modifications et quitter le nouvel ordre de travail.
 
@@ -139,11 +145,7 @@ Une autre manière de générer des ordres de travail consiste à réaffecter de
 
 3. Dans la **Barre de commandes**, sélectionnez le bouton **Convertir en ordre de travail**. 
 
-4. Une fois la création de l’ordre de travail terminée, cliquez sur le bouton **OK** dans l’écran contextuel pour consulter les détails de l’ordre de travail. 
-
-5. Sélectionnez l’onglet **Services** et vérifiez que les services **Inspecter l’intégrité du système** et **Inspecter l’amplitude de mouvement** ont été ajoutés à l’ordre de travail. **REMARQUE :** Si vous ne les voyez pas initialement, appuyez sur F5 pour actualiser votre écran. 
-
-6. Sélectionnez l’onglet **Tâche de service** et vérifiez que les 4 tâches ont été ajoutées.
+4. Une fois la création de l’ordre de travail terminée, sélectionnez le bouton **OK** dans l’écran contextuel pour consulter les détails de l’ordre de travail. 
 
  
 
@@ -157,25 +159,19 @@ Les deux ordres de travail que vous avez créés récemment sont tous deux prêt
 
 2. Dans l’écran à haut à droite, définissez **Nouveau tableau de planification** sur **ACTIVÉ**. 
 
-3. À l’aide du champ de recherche **Rechercher des ressources**, entrez le nom de votre compte d’utilisateur. (Votre enregistrement de ressource devrait s’afficher.)
+3. À l’aide du champ de recherche **Rechercher des ressources**, entrez Aidan Knaggs. 
 
 4. Au bas de l’écran du volet Besoins, sélectionnez **Ordres de travail non planifiés**.  (Si le volet Besoins ne s’affiche pas, sélectionnez la flèche au bas de l’écran pour le développer.) 
 
-5. Localisez l’ordre de travail **Active Transport** que vous avez créé à partir de l’enregistrement d’incident. (Rappelez-vous du n° d’ordre de travail). 
+5. Localisez l’ordre de travail **Munson’s Pickles** que vous avez créé à partir de l’enregistrement d’incident. (Rappelez-vous du n° d’ordre de travail). 
 
-6. Faites glisser l’enregistrement **Active Transport** et placez-le à un emplacement libre de votre enregistrement d’utilisateur. 
+6. Faites glisser l’enregistrement **Munson’s Pickles** et placez-le à un emplacement libre de l’enregistrement de contact d’Aiden. 
 
 7. Il peut arriver que vous deviez replanifier un ordre de travail en raison de conflits entre techniciens ou autres facteurs. Les répartiteurs peuvent facilement effectuer cette tâche à l’aide du tableau de planification. 
 
-8. Cliquez sur la zone Rechercher des ressources dans le tableau de planification (à droite au-dessus de la colonne du nom de la ressource), entrez **Brady** et localisez l’ordre de travail planifié pour **Brady Hannon** à une heure ultérieure du jour. 
-
-9. **Faites un clic droit** sur l’élément planifié. Dans le menu qui s’affiche, sélectionnez **Réaffecter**. Cliquez sur la zone de recherche et sélectionnez votre enregistrement de ressource.
-
  
 
- 
-
-### Tâche 2 : Planifier à l’aide du tableau de planification
+### Tâche 2 : Planifier à l’aide du tableau de planification
 
 1. Dans le volet de navigation de gauche, sélectionnez **Tableau de planification**.
 
@@ -185,10 +181,10 @@ Les deux ordres de travail que vous avez créés récemment sont tous deux prêt
 
 4. Localisez l’ordre de travail **Active Transport** que vous avez créé à partir de l’enregistrement d’incident. (Rappelez-vous du n° d’ordre de travail). 
 
-5. Faites glisser l’enregistrement **Active Transport** et placez-le à un emplacement libre de votre enregistrement d’utilisateur. 
+5. Faites glisser l’enregistrement **Active Transport** et placez-le à un emplacement libre de votre enregistrement d’utilisateur. Le texte s’affichera en vert si le créneau horaire correspond au créneau horaire préféré du client.
 
 6. Il peut arriver que vous deviez replanifier un ordre de travail en raison de conflits entre techniciens ou autres facteurs. Les répartiteurs peuvent facilement effectuer cette tâche à l’aide du tableau de planification. 
 
-7. Cliquez sur la zone Rechercher des ressources dans le tableau de planification (à droite au-dessus de la colonne du nom de la ressource), entrez **Brady** et localisez l’ordre de travail planifié pour **Brady Hannon** à une heure ultérieure du jour. 
+7. Sélectionnez la zone Rechercher des ressources dans le tableau de planification (à droite au-dessus de la colonne du nom de la ressource), entrez **Brady** et localisez l’ordre de travail planifié pour **Brady Hannon** à une heure ultérieure du jour. 
 
-8. **Faites un clic droit** sur l’élément planifié. Dans le menu qui s’affiche, sélectionnez **Substituer la ressource**. Cliquez sur la zone Sélectionner/Rechercher, sélectionnez votre enregistrement puis sélectionnez **Réaffecter**.
+8. **Faites un clic droit** sur l’élément planifié. Dans le menu qui s’affiche, sélectionnez **Substituer la ressource**. Sélectionnez la zone Sélectionner/Rechercher, sélectionnez votre enregistrement puis sélectionnez **Nouvelle attribution**.

@@ -59,7 +59,7 @@ En tant qu’agent du support technique, vous êtes responsable de la résolutio
 
 ## Configuration du labo
 
-  - **Durée estimée**: 45 minutes
+  - **Durée estimée** : 45 minutes
 
 ## Instructions
 
@@ -69,17 +69,17 @@ En tant qu’agent du support technique, vous êtes responsable de la résolutio
 
 1. Ouvrez l’application **Concentrateur du service client Dynamics 365** si elle n’est pas déjà ouverte. 
 
-2. Dans le volet de navigation de gauche, sélectionnez **Articles de la Base de connaissances**. 
+2. Dans le volet de navigation de gauche, sélectionnez **Articles de la Base de connaissances **. 
 
 3. Pour voir rapidement quels articles sont dans différentes phases, sélectionnez la flèche déroulante à côté de **Mes articles actifs**. 
 
-4. Sélectionnez **Brouillons d’article**. Vous verrez probablement deux articles en mode brouillon.
+4. Sélectionnez **Brouillons d’article**. 
 
-5. Utilisez le sélecteur de vue pour sélectionner **Articles approuvés**. Vous devriez voir au moins un article approuvé. 
+5. Utilisez le sélecteur de vue pour sélectionner **Articles approuvés**.  
 
 6. Utilisez le sélecteur de vue pour revenir à **Mes articles actifs**
 
-7. Dans la **Barre de commandes**, cliquez sur le bouton **Nouveau**. 
+7. Dans la **Barre de commandes**, cliquez sur le bouton **Nouveau**. Une fois que le nouvel enregistrement est ouvert, sélectionnez la flèche déroulante à côté du champ **Raison de l’état** dans l’en-tête de l’enregistrement en haut. Définissez **Langue** sur **Français - France**.
 
 8. Renseignez l’article comme suit :
 
@@ -153,7 +153,7 @@ Dans la plupart des organisations, une fois que l’auteur a créé l’article 
 
 13. Appuyez sur la touche **Entrée**. 
 
-14. Entrez le texte puis appuyez sur le bouton **Confirmer**. 
+14. Entrez le texte « Appuyez sur le bouton Confirmer ». 
 
 15. Dans la **Barre de commandes**, sélectionnez le bouton **Enregistrer et fermer**.
 
@@ -172,15 +172,15 @@ Dans la plupart des organisations, une fois que l’auteur a créé l’article 
 
 Maintenant que l’article a été approuvé, nous allons le publier pour le mettre à disposition des personnes travaillant sur les incidents. 
 
-1. Cliquez sur le bouton **Phase suivante** pour passer à la phase **Publier**. 
+1. Appuyez sur le bouton **Phase suivante** pour passer à la phase **Publier**. 
 
 2. Marquez **Définir les associations de produits** comme étant **terminées**. 
 
 3. Définissez la **Date d’expiration** sur **une année à compter de ce jour à 00h00**. 
 
-4. Cliquez sur le bouton **Terminer** pour terminer le processus. 
+4. Sélectionnez le bouton **Terminer** pour terminer le processus. 
 
-5. Dans la **Barre de commandes** de l’article, cliquez sur le bouton **Publier**. 
+5. Dans la **Barre de commandes** de l’article, sélectionnez le bouton **Publier**. 
 
 6. Vérifiez que les champs suivants sont sélectionnés :
 
@@ -194,7 +194,7 @@ Maintenant que l’article a été approuvé, nous allons le publier pour le met
 
 	- **Statut d’expiration :** Expiré
 
-7. Cliquez sur le bouton **Publier** pour publier l’article.
+7. Sélectionnez le bouton **Publier** pour publier l’article.
 
 
 ## Exercice 2 : Gérer un incident de support tout au long de son cycle de vie
@@ -208,17 +208,8 @@ Maintenant que l’article a été approuvé, nous allons le publier pour le met
 
 3. Dans la **Barre de commandes**, sélectionnez le bouton **Afficher le filtre visuel**.
 
-4. Dans le graphique **Combinaison d’incidents (par origine)**, sélectionnez **Téléphone**. Notez que le filtre Incidents affiche uniquement les Incidents Téléphone.  
 
-5. Sélectionnez **Effacer tout** pour vider le filtre.
-
-6. Dans le graphique **Incidents par priorité**, sélectionnez **Élevée**. Notez que la liste des incidents est filtrée encore plus de manière à inclure les cas présentant une priorité élevée.  
-
-7. Cliquez sur le premier incident qui apparaît dans la liste pour l’ouvrir. Une fois l’incident ouvert, cliquez sur le bouton **Enregistrer et fermer** dans la barre de commandes pour fermer l’incident et revenir au tableau de bord de **niveau 1**. 
-
-8. Supprimez tous les filtres actuellement appliqués en sélectionnant **Effacer tout**. 
-
-9. Des tableaux de bord supplémentaires fournissent des détails sur la charge d’incidents actuelle. Vous pouvez utiliser d’autres tableaux de bord à l’aide du sélecteur de tableaux de bord. Modifiez le tableau de bord de **Tableau de bord de niveau 1** en **Tableau de bord de niveau 2**. 
+4. Des tableaux de bord supplémentaires fournissent des détails sur la charge d’incidents actuelle. Vous pouvez utiliser d’autres tableaux de bord à l’aide du sélecteur de tableaux de bord. Modifiez le tableau de bord de **Tableau de bord de niveau 1** en **Tableau de bord de niveau 2**. 
 
  
 
@@ -256,13 +247,13 @@ Maintenant que vous êtes familiarisé avec quelques vues et tableaux de bord, n
 
 	- **Durée :** 15 minutes.
 
-17. Cliquez sur le bouton **Enregistrer et fermer**. 
+17. Sélectionnez le bouton **Enregistrer et fermer**. 
 
 18. Dans **Processus téléphone-incident**, sélectionnez la phase **Identifier**.
 
-19. Cliquez sur le bouton **Phase suivante** pour passer à la phase **Rechercher**. 
+19. Appuyez sur le bouton **Phase suivante** pour passer à la phase **Rechercher**. 
 
-20. Cliquez sur le symbole **X** dans la fenêtre de la phase **Rechercher** pour la fermer et pouvoir continuer à travailler. 
+20. Sélectionnez le symbole **X** dans la fenêtre de la phase **Rechercher** pour la fermer et pouvoir continuer à travailler. 
 
 21. À l’aide de la **Chronologie des enregistrements**, sélectionnez l’**icône de signe Plus** pour créer une nouvelle activité. 
 
@@ -276,7 +267,7 @@ Maintenant que vous êtes familiarisé avec quelques vues et tableaux de bord, n
 
 	- **Durée :** 30 minutes.
 
-24. Cliquez sur le bouton **Enregistrer et fermer**. 
+24. Sélectionnez le bouton **Enregistrer et fermer**. 
 
 25. Sur le côté droit de l’écran des incidents, localisez et sélectionnez l’icône représentant un livre **Base de connaissances**. (Elle se trouve directement sous l’icône représentant une clé anglaise).
 
@@ -292,11 +283,11 @@ Maintenant que vous êtes familiarisé avec quelques vues et tableaux de bord, n
 
 Maintenant que nous avons identifié une solution pour le problème du client, nous sommes prêts à résoudre l’incident. La première étape de clôture d’un incident consiste à fermer toutes les activités ouvertes qui y étaient associées. 
 
-1. Dans l’enregistrement d’incident **Chronologie**, survolez la tâche **Mener des recherches sur le problème de Piper** que vous avez créée précédemment. Sélectionnez Marquer comme terminé (**icône de coche**) pour terminer l’activité. 
+1. Dans l’enregistrement d’incident **Chronologie**, survolez la tâche **Mener des recherches sur le problème de Piper** que vous avez créée précédemment**.** Sélectionnez Marquer comme terminé (**icône de coche**) pour terminer l’activité. 
 
 2. Dans l’écran **Fermer la tâche**, vérifiez que l’état est défini sur Terminé et sélectionnez le bouton **Fermer**. Le statut de la tâche devrait indiquer **Fermé**. 
 
-3. Survolez **Appel téléphonique - Retourner l’appel de Piper** que vous avez créé précédemment. Sélectionnez Marquer comme terminé (**icône de coche**) pour terminer l’activité. 
+3. Survolez **Appel téléphonique - Retourner l’appel de Piper** que vous avez créé précédemment**.** Sélectionnez Marquer comme terminé (**icône de coche**) pour terminer l’activité. 
 
 4. Dans l’écran **Fermer un appel téléphonique**, vérifiez que l’**État** est défini sur **Terminé** et que le **Statut** est **Effectué**. Sélectionnez le bouton **Fermer**. Vérifiez que l’activité s’affiche comme fermée dans la Chronologie. 
 
