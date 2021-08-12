@@ -151,15 +151,15 @@ Une campagne marketing récente ciblant des propriétaires de maison à Portland
 
 7. Remplissez la page du second contact comme suit :
 
-	- **Prénom ** : Votre prénom
+	- **Prénom** : Votre prénom
 
-	- **Nom ** : Votre adresse e-mail
+	- **Nom** : Votre adresse e-mail
 
-	- **E-mail ** : Entrez une adresse e-mail dont vous pouvez recevoir du courrier.
+	- **E-mail** : Entrez une adresse e-mail dont vous pouvez recevoir du courrier.
 
 	- **Adresse 1 Rue 1 :** 1989 191<sup data-htmlnode="">st</sup> Ave N
 
-	- **Adresse 1 : Ville ** : Seattle
+	- **Adresse 1 : Ville** : Seattle
 
 	- **Adresse 1 État :** WA
 
@@ -213,15 +213,15 @@ Maintenant que nous avons créé votre segment, vérifions que le segment dynami
 
 3. Remplissez la page **Nouveau contact** comme suit.
 
-	- **Prénom ** : Rick
+	- **Prénom** : Rick
 
-	- **Nom ** : Jones - Vos initiales
+	- **Nom** : Jones - Vos initiales
 
-	- **E-mail ** : Entrez une adresse e-mail dont vous pouvez recevoir du courrier.
+	- **E-mail** : Entrez une adresse e-mail dont vous pouvez recevoir du courrier.
 
 	- **Adresse 1 Rue 1 :** 1989 191<sup data-htmlnode="">st</sup> Ave N
 
-	- **Adresse 1 : Ville ** : Seattle
+	- **Adresse 1 : Ville** : Seattle
 
 	- **Adresse 1 État :** WA
 
@@ -271,13 +271,13 @@ Maintenant que nous avons créé le contenu marketing que nous souhaitons livrer
 
 15. Sélectionnez l’onglet Général qui se trouve vers le haut de l’enregistrement Parcours du client. Entrez les informations suivantes dans l’onglet **Général** :
 
-	- **Nom ** : Promotion d’automne Région de Seattle - Vos initiales
+	- **Nom** : Promotion d’automne Région de Seattle - Vos initiales
 
-	- **Date et heure de début ** : Entrez la date d’aujourd’hui
+	- **Date et heure de début** : Entrez la date d’aujourd’hui
 
-	- **Date et heure de fin ** : Un mois à compter d’aujourd’hui
+	- **Date et heure de fin** : Un mois à compter d’aujourd’hui
 
-	- **Fuseau horaire ** : Sélectionnez votre fuseau horaire local 
+	- **Fuseau horaire** : Sélectionnez votre fuseau horaire local 
 
 16. Dans la barre de commandes, sélectionnez **Enregistrer** pour enregistrer le travail que vous avez réalisé jusqu’à présent.
 

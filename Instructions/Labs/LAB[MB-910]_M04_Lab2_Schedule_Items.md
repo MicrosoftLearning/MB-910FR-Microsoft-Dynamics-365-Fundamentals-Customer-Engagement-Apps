@@ -11,7 +11,7 @@ Module 4 : Découvrir les principes fondamentaux de Dynamics 365 Field Servi
 
 ## Configuration du labo
 
-  - **Durée estimée ** : 20 minutes
+  - **Durée estimée** : 20 minutes
 
   **Remarque :** Il n’est pas possible d’ouvrir le volet Besoins en réservations dans Internet Explorer. Nous vous recommandons d’utiliser Microsoft Edge ou Google Chrome pour effectuer cet exercice.
   
@@ -60,7 +60,7 @@ Dans le volet de navigation de gauche, sélectionnez la zone **Ressources**, pui
 
 	- **Compte de service :** Adatum Corporation
 
-	- **Type d’ordre de travail ** : Service
+	- **Type d’ordre de travail** : Service
 
 	- **Tarifs :** CRM Service USE (exemple)
 

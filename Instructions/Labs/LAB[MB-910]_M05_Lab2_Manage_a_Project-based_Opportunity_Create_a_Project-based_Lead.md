@@ -54,7 +54,7 @@ En tant que vendeur Entreprise, vous êtes chargé de vendre des solutions de s�
 
 ## Configuration du labo
 
-  - **Durée estimée ** : 20 minutes
+  - **Durée estimée** : 20 minutes
   
 ## Exercice 1 : Gérer une opportunité basée sur un projet 
 
@@ -62,7 +62,7 @@ Maintenant que vous avez créé avec succès une opportunité de projet basée s
 
 ### Tâche 1 : Gérer une opportunité de vente 
 
-1. Dans le volet de navigation de gauche, sélectionnez ** Opportunités**. 
+1. Dans le volet de navigation de gauche, sélectionnez **Opportunités**. 
 
 2. Dans la liste Mes opportunités de service de projet ouvertes, ouvrez l’opportunité **Implémentation de sécurité globale complète - Vos initiales** qui a été créée lorsque vous avez qualifié le prospect précédemment. Notez que l’enregistrement se trouve déjà dans la phase **Développer** puisqu’il a été créé à partir d’un prospect précédemment qualifié.  
 
@@ -78,7 +78,7 @@ Maintenant que vous avez créé avec succès une opportunité de projet basée s
 
 6. Sélectionnez le symbole **X** dans la fenêtre de la phase pour la fermer et pouvoir continuer à travailler. 
 
-7. Dans la sous-grille **Parties prenantes**, notez que ** Jean** est déjà défini comme partie prenante. 
+7. Dans la sous-grille **Parties prenantes**, notez que **Jean** est déjà défini comme partie prenante. 
 
 8. Dans la sous-grille Équipe de vente, sélectionnez **Nouvelle connexion**. (Si vous ne voyez pas le bouton **Nouvelle connexion**, sélectionnez les **points de suspension verticaux**, et dans le menu qui s’affiche, sélectionnez **Nouvelle connexion**.) 
 

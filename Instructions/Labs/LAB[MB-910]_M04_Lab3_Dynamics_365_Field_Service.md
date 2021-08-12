@@ -61,7 +61,7 @@ Récemment, un client Entreprise, Active Transport, Inc., a contacté le support
 
 ## Configuration du labo
 
-  - **Durée estimée ** : 45 minutes
+  - **Durée estimée** : 45 minutes
 
 ## Instructions
 
@@ -71,7 +71,7 @@ Récemment, un client Entreprise, Active Transport, Inc., a contacté le support
 
 1. Ouvrez l’application **Dynamics 365 Field Service** si elle n’est pas déjà ouverte. 
 
-2. Dans le volet de navigation de gauche, sélectionnez ** Incidents**. 
+2. Dans le volet de navigation de gauche, sélectionnez **Incidents**. 
 
 3. Dans la **Barre de commandes**, sélectionnez le bouton **Nouveau** pour créer un nouvel enregistrement d’incident.
 
@@ -109,7 +109,7 @@ Nous reviendrons ultérieurement à l’enregistrement d’incident que vous ave
 
 	- **Tarifs :** Office 365 US (exemple)
 
-	- **Type d’ordre de travail ** : Service
+	- **Type d’ordre de travail** : Service
 
 	- **Imposable :** Non
 

@@ -54,7 +54,7 @@ En tant que vendeur Entreprise, vous êtes chargé de vendre des solutions de s�
 
 ## Configuration du labo
 
-  - **Durée estimée ** : 10 minutes
+  - **Durée estimée** : 10 minutes
 
 ## Instructions
 
@@ -64,7 +64,7 @@ En tant que vendeur Entreprise, vous êtes chargé de vendre des solutions de s�
 
 1. Si nécessaire, ouvrez un navigateur InPrivate et accédez à [Https://home.Dynamics.com](https://home.dynamics.com/) 
 
-2.  À l’invite, connectez-vous avec les identifiants utilisateur que l’instructeur vous a fournis. 
+2. À l’invite, connectez-vous avec les identifiants utilisateur que l’instructeur vous a fournis. 
 
 3. Dans la liste d’applications qui s’affiche, sélectionnez **Project Service**. 
 

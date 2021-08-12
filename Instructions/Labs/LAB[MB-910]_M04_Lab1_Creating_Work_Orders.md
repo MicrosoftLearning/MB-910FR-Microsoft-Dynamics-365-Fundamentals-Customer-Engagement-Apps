@@ -11,7 +11,7 @@ Module 4 : Découvrir les principes fondamentaux de Dynamics 365 Field Servi
 
 ## Configuration du labo
 
-  - **Durée estimée ** : 10 minutes
+  - **Durée estimée** : 10 minutes
 
 ## Instructions
 
@@ -23,7 +23,7 @@ Module 4 : Découvrir les principes fondamentaux de Dynamics 365 Field Servi
 
 	- **Compte de service :** Adventure Works Cycles
 
-	- **Type d’ordre de travail ** : Service (créer un nouveau)
+	- **Type d’ordre de travail** : Service (créer un nouveau)
 
 	- **Tarifs :** CRM Service USA (exemple)
 

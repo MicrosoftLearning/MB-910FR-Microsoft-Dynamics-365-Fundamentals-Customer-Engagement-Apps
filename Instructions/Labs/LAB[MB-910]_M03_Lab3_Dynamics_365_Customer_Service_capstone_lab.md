@@ -59,7 +59,7 @@ En tant qu’agent du support technique, vous êtes responsable de la résolutio
 
 ## Configuration du labo
 
-  - **Durée estimée ** : 45 minutes
+  - **Durée estimée** : 45 minutes
 
 ## Instructions
 
@@ -69,7 +69,7 @@ En tant qu’agent du support technique, vous êtes responsable de la résolutio
 
 1. Ouvrez l’application **Concentrateur du service client Dynamics 365** si elle n’est pas déjà ouverte. 
 
-2. Dans le volet de navigation de gauche, sélectionnez ** Articles de la Base de connaissances **. 
+2. Dans le volet de navigation de gauche, sélectionnez **Articles de la Base de connaissances **. 
 
 3. Pour voir rapidement quels articles sont dans différentes phases, sélectionnez la flèche déroulante à côté de **Mes articles actifs**. 
 
@@ -204,7 +204,7 @@ Maintenant que l’article a été approuvé, nous allons le publier pour le met
 
 1. Ouvrez l’application **Concentrateur du service client Dynamics 365** si elle n’est pas déjà ouverte. 
 
-2. Dans le volet de navigation de gauche, sélectionnez ** Tableaux de bord**. Le tableau de bord de **niveau 1** s’ouvre. 
+2. Dans le volet de navigation de gauche, sélectionnez **Tableaux de bord**. Le tableau de bord de **niveau 1** s’ouvre. 
 
 3. Dans la **Barre de commandes**, sélectionnez le bouton **Afficher le filtre visuel**.
 
@@ -217,7 +217,7 @@ Maintenant que vous êtes familiarisé avec quelques vues et tableaux de bord, n
 
  
 
-10. Dans le volet de navigation de gauche, sélectionnez ** Incidents**. 
+10. Dans le volet de navigation de gauche, sélectionnez **Incidents**. 
 
 11. Dans la **Barre de commandes**, sélectionnez le bouton **Nouveau** pour créer un nouvel enregistrement d’incident.
 

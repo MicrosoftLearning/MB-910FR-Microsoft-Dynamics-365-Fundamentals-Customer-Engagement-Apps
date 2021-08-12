@@ -63,7 +63,7 @@ Vous avez récemment reçu un appel d’une personne appelée Piper Smith. Une s
 
 ## Configuration du labo
 
-  - **Durée estimée ** : 30 minutes
+  - **Durée estimée** : 30 minutes
 
 ## Instructions
   
@@ -161,7 +161,7 @@ Maintenant que nous avons réussi à qualifier le prospect comme opportunité, i
 
 ### Tâche 1 : Gérer une opportunité de vente et créer un devis 
 
-1. Dans le volet de navigation de gauche, sélectionnez ** Opportunités**. 
+1. Dans le volet de navigation de gauche, sélectionnez **Opportunités**. 
 
 2. Sélectionnez la flèche déroulante à côté de **Mes opportunités ouvertes** et dans le menu qui s’affiche, sélectionnez **Toutes les opportunités**.
 
@@ -197,7 +197,7 @@ Maintenant que nous avons réussi à qualifier le prospect comme opportunité, i
 
 	- **Lieu :** En ligne
 
-	- **Heure de début ** : Demain à 10h00
+	- **Heure de début** : Demain à 10h00
 
 	- **Heure de fin :** Demain à 10:30
 
