@@ -16,7 +16,7 @@ Au cours de cet exercice, vous allez capturer un prospect pour Suzanne Burke. El
 
 ## Configuration du labo
 
-  - **Durée estimée **: 15 minutes
+  - **Durée estimée ** : 15 minutes
 
 ## Instructions
 

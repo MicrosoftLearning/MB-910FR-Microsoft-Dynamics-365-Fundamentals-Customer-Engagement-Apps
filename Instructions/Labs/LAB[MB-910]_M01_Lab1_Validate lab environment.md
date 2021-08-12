@@ -34,7 +34,7 @@ Exercice 1 - Accéder à l’application Dynamics 365
 
 ### Tâche 2 - Accéder à l’application Dynamics 365
 
-1.  Développez le bouton domino Lanceur d’applications, en haut à gauche de l’écran, directement à gauche du **Centre d’administration Power Platform. Sélectionnez l’application Dynamics 365 **Marketing** pour la lancer.
+1.  Développez le bouton domino Lanceur d’applications, en haut à gauche de l’écran, directement à gauche du **Centre d’administration Power Platform. Sélectionnez l’application Dynamics 365 Marketing** pour la lancer.
 
 2.  Examinez le volet de navigation sur le côté gauche. Le bouton en bas du volet vous permet de passer d’une zone à l’autre. Vous consultez actuellement la zone **Marketing**. 
 

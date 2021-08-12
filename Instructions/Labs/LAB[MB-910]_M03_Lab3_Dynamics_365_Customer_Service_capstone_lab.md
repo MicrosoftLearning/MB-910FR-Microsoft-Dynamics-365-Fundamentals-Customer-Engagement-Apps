@@ -59,7 +59,7 @@ En tant qu’agent du support technique, vous êtes responsable de la résolutio
 
 ## Configuration du labo
 
-  - **Durée estimée **: 45 minutes
+  - **Durée estimée ** : 45 minutes
 
 ## Instructions
 

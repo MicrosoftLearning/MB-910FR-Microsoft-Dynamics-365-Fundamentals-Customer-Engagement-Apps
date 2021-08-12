@@ -60,7 +60,7 @@ En tant que vendeur Entreprise, vous êtes chargé de vendre des solutions de s�
 
 ## Configuration du labo
 
-  - **Durée estimée **: 45 minutes
+  - **Durée estimée ** : 45 minutes
 
 ## Instructions
 

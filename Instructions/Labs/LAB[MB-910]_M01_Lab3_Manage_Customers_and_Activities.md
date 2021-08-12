@@ -15,7 +15,7 @@ La définition et l’utilisation d’enregistrements de compte et de contact da
 
 ## Configuration du labo
 
-  - **Durée estimée **: 15 minutes
+  - **Durée estimée**: 15 minutes
 
 ## Instructions
 

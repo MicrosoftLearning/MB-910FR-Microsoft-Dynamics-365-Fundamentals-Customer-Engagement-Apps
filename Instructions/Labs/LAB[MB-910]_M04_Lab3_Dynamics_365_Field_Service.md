@@ -61,7 +61,7 @@ Récemment, un client Entreprise, Active Transport, Inc., a contacté le support
 
 ## Configuration du labo
 
-  - **Durée estimée **: 45 minutes
+  - **Durée estimée ** : 45 minutes
 
 ## Instructions
 
@@ -109,7 +109,7 @@ Nous reviendrons ultérieurement à l’enregistrement d’incident que vous ave
 
 	- **Tarifs :** Office 365 US (exemple)
 
-	- **Type d’ordre de travail **: Service
+	- **Type d’ordre de travail ** : Service
 
 	- **Imposable :** Non
 

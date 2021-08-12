@@ -11,7 +11,7 @@ Module 3 : Découvrir les principes fondamentaux de Dynamics 365 Customer Se
 
 ## Configuration du labo
 
-  - **Durée estimée **: 15 minutes
+  - **Durée estimée ** : 15 minutes
 
 ## Instructions
 

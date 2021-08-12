@@ -15,7 +15,7 @@ Lors de cet exercice, vous constaterez qu’il est très facile de créer des se
 
 ## Configuration du labo
 
-  - **Durée estimée **: 20 minutes
+  - **Durée estimée**: 20 minutes
 
 ## Instructions
 

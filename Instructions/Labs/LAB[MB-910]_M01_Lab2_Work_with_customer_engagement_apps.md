@@ -16,7 +16,7 @@ Au cours de cet exercice, vous allez constater qu’il est très facile d’acc�
 
 ## Configuration du labo
 
-  - **Durée estimée **: 15 minutes
+  - **Durée estimée**: 15 minutes
 
 ## Instructions
 

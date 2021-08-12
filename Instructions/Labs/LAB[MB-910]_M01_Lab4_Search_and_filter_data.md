@@ -15,7 +15,7 @@ La localisation des données dans l’application est une tâche quasiment quoti
 
 ## Configuration du labo
 
-  - **Durée estimée **: 15 minutes
+  - **Durée estimée**: 15 minutes
 
 ## Instructions
 

@@ -54,7 +54,7 @@ En tant que vendeur Entreprise, vous êtes chargé de vendre des solutions de s�
 
 ## Configuration du labo
 
-  - **Durée estimée **: 20 minutes
+  - **Durée estimée ** : 20 minutes
   
 ## Exercice 1 : Gérer une opportunité basée sur un projet 
 

@@ -16,7 +16,7 @@ Au cours de cet exercice, vous allez capturer manuellement une opportunité de v
 
 ## Configuration du labo
 
-  - **Durée estimée **: 25 minutes
+  - **Durée estimée ** : 25 minutes
 
 ## Instructions
 
