@@ -22,26 +22,20 @@ Au cours de cet exercice, vous allez constater qu’il est très facile d’acc�
 
 Dans cet exercice, vous allez vous familiariser avec les modalités d’accès aux différentes applications Dynamics 365 Customer Engagement en utilisant l’écran Page d’accueil Dynamics 365. 
 
-1. Dans un navigateur web, accédez à **[https://home.dynamics.com](https://home.dynamics.com/)** Toutes les applications auxquelles vous avez accès s’afficheront. 
+1.	Dans un navigateur web, accédez à https://www.office.com/apps. 
 
-2. Pour réduire le nombre d’applications affichées, sélectionnez l’**icône de filtre** qui se trouve à côté du bouton Obtenir plus d’applications. 
+2.	Cliquez sur l'onglet Applis métier.  
 
-3. Sous **PAR NOM D’INSTANCE**, sélectionnez **AUCUNE**. Ensuite, choisissez l’environnement que vous souhaitez utiliser. 
+3.	Dans la zone de recherche, entrez le texte Centre des ventes et sélectionnez l'application Centre des ventes pour l’ouvrir.  
 
-4. Sélectionnez le symbole **X** en haut à droite de la **zone Filtre** pour la fermer. 
+4. Lorsque vous êtes dans une application, vous pouvez travailler avec différentes zones selon les tâches à effectuer. Par exemple, l’application Centre des ventes contient différents paramètres administratifs que vous pouvez utiliser. 
 
-5. Pour localiser une application spécifique, vous pouvez la rechercher en sélectionnant le champ **Rechercher mes applications** sur le côté gauche de l’écran. 
+5. Sur le côté inférieur gauche du volet de navigation, sélectionnez **Ventes** et passez à la zone **Paramètres de l’application**. Explorez les paramètres de l’application.
 
-6. Saisissez le texte **Centre des ventes** et sélectionnez l’application **Centre des ventes** pour l’ouvrir. 
+6. Sélectionnez à nouveau le sélecteur de zone et remodifiez-le de **Paramètres de l’application** à **Sales**.
 
-7. Lorsque vous êtes dans une application, vous pouvez travailler avec différentes zones selon les tâches à effectuer. Par exemple, l’application Centre des ventes contient différents paramètres administratifs que vous pouvez utiliser. 
+7. Si vous souhaitez passer de l’application Sales à une autre application telle que le Concentrateur du service client, sélectionnez le texte **Centre des Ventes** dans la partie supérieure gauche de l’écran à côté du texte Dynamics 365. 
 
-8. Sur le côté inférieur gauche du volet de navigation, sélectionnez **Ventes** et passez à la zone **Paramètres de l’application**. Explorez les paramètres de l’application.
+8. L’écran Applications apparaît, sélectionnez **Concentrateur du service client** et vous reviendrez à l’application Concentrateur du service client. 
 
-9. Sélectionnez à nouveau le sélecteur de zone et remodifiez-le de **Paramètres de l’application** à **Sales**.
-
-10. Si vous souhaitez passer de l’application Sales à une autre application telle que le Concentrateur du service client, sélectionnez le texte **Centre des Ventes** dans la partie supérieure gauche de l’écran à côté du texte Dynamics 365. 
-
-11. L’écran Applications apparaît, sélectionnez **Concentrateur du service client** et vous reviendrez à l’application Concentrateur du service client. 
-
-12. Sélectionnez le texte **Concentrateur du service client** en haut pour revenir à l’application **Centre des ventes**. 
+9. Sélectionnez le texte **Concentrateur du service client** en haut pour revenir à l’application **Centre des ventes**. 
